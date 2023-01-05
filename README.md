@@ -25,7 +25,7 @@ requirement as an European citizen thus outside U.S. jurisdiction.
 Furthermore, the Open Source Initiative (OSI) **approves** of EUPL-1.2
 and agrees, that **public domain doesn't exist in Europe**.
 
-#### ‘Compatible Licences’ acc. to EUPL
+#### Licence compatibility from the EUPL ‘Appendix’
 
 ‘Compatible Licences’ according to Article 5 EUPL are:
 
