@@ -1,6 +1,8 @@
 MAINTAINER.md
 =============
 
+# Maintainer & Copyright Notice
+
 This file provides introductory information to software and repository.
 
 HINWEIS: Der deutsch-sprachige Text in [Datei: LIESMICH.md](LIESMICH.md).

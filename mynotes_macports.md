@@ -1,7 +1,7 @@
 mynotes_macports.md
 ===================
 
-My Notes on **[MacPorts](https://www.macports.org/)**
+# My Notes on **[MacPorts](https://www.macports.org/)**
 
 ## Templates and Check Lists
 

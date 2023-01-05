@@ -1,7 +1,7 @@
 README.md
 =========
 
-The **Zweihorn_fascicle**;
+# The **Zweihorn_fascicle**
 
 from Latin _fasciculus_, diminutive of _fascis_ ‘**bundle**’: a separately published instalment of a book or other work
 

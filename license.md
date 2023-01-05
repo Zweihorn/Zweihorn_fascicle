@@ -1,6 +1,8 @@
 license.md
 ==========
 
+# License
+
 ## Open Source Licence Information
 
 More general information at:

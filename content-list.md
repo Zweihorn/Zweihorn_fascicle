@@ -1,6 +1,8 @@
 content-list.md
 ===============
 
+# Content List (bilingual) / Zweisprachiges Inhaltsverzeichnis
+
 The Content List to the Repository / Das Inhaltsverzeichnis zum Software-Archiv
 
 ## Preface / Vorwort

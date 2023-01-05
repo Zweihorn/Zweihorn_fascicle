@@ -1,6 +1,8 @@
 LIESMICH.md
 ===========
 
+# Bearbeiter- und Urheberrechtshinweis
+
 Diese Datei dient als deutsch-sprachige Einführung für das Software-Archiv.
 
 NOTE: More information in English at [File: MAINTAINER.md](MAINTAINER.md).
