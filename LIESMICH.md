@@ -41,7 +41,14 @@ Die weiter unten genannte Web-Seite hält alle offiziellen Versionen der
 Open-Source-Lizenz für die Europäische Union („EUPL-1.2“) bereit.
 
 
-### EUPL in Kopie des deutsch-sprachigen Textes
+### EUPL-1.2 und auszugsweise „EUPL v.1.0 Präambel”
+
+Die beigefügte „Open-Source-Lizenz für die Europäische Union”
+([EUPL](https://joinup.ec.europa.eu/collection/eupl)) wurde im Rahmen
+des IDABC Programms der Europäischen Union entwickelt, welches die
+Aufgaben hat, die Interoperabilität europaweiter elektronischer
+Behördendienste (eGovernment-Dienste) für öffentliche Verwaltung,
+**Unternehmen** und **Bürger** zu fördern.
 
 Die EUPL ist eine Lizenz für freie/quelloffene Software (Free/Libre
 Open-Source Software – FOSS). Sie wurde im März 2009 von der OSI (Open
@@ -57,6 +64,7 @@ v. 1.2 ist im Amtsblatt der Europäischen Union vom 19. Mai 2017
 veröffentlicht und in 23 offiziellen Sprachen der Europäischen Union
 verfügbar gemacht worden. Der Text zur EUPL trägt die SPDX-Kennung
 ([SPDX identifier EUPL-1.2](https://spdx.org/licenses/EUPL-1.2.html)).
+
 
 ### Kopie des Textes der EUPL in deutscher Fassung (DE)
 

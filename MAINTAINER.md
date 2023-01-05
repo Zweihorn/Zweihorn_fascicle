@@ -39,7 +39,7 @@ and agrees, that **public domain doesn't exist in Europe**.
 The EUPL is the first European Free/Open Source Software (F/OSS) Licence.
 
 
-### EUPL
+### EUPL and excerpt from ‘EUPL v1.0 Preamble’
 
 The [EUPL](https://joinup.ec.europa.eu/collection/eupl) was approved as
 a Licence to be used for the distribution of software developed in the
