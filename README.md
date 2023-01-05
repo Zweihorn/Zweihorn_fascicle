@@ -1,7 +1,7 @@
 README.md
 =========
 
-# The **Zweihorn_fascicle**
+# The Zweihorn_**fascicle**
 
 from Latin _fasciculus_, diminutive of _fascis_ ‘**bundle**’: a separately published instalment of a book or other work
 
@@ -24,6 +24,27 @@ always published under the **EUPL-1.2** license.  This fits my legal
 requirement as an European citizen thus outside U.S. jurisdiction.
 Furthermore, the Open Source Initiative (OSI) **approves** of EUPL-1.2
 and agrees, that **public domain doesn't exist in Europe**.
+
+#### ‘Compatible Licences’ acc. to EUPL
+
+‘Compatible Licences’ according to Article 5 EUPL are:
+
+- GNU General Public License (GPL) v. 2, v. 3
+- GNU Affero General Public License (AGPL) v. 3
+- Open Software License (OSL) v. 2.1, v. 3.0
+- Eclipse Public License (EPL) v. 1.0
+- CeCILL v. 2.0, v. 2.1
+- Mozilla Public Licence (MPL) v. 2
+- GNU Lesser General Public Licence (**LGPL**) v. 2.1, v. 3
+- Creative Commons Attribution-ShareAlike v. 3.0 Unported (**CC BY-SA 3.0**) for
+  works other than software
+- European Union Public Licence (EUPL) v. 1.1, v. 1.2
+- Québec Free and Open-Source Licence — Reciprocity (LiLiQ-R) or Strong
+  Reciprocity (LiLiQ-R+).
+
+_(2023-01-06)_
+
+#### Maintainer License Information
 
 More information at [File: MAINTAINER.md](MAINTAINER.md) in this repository.
 

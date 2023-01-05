@@ -25,11 +25,11 @@ aus dem jeweiligem sog. FOSS-Projekt oder aus einem zugehörigen Beitrag (PR).
 
 Bitte beachten Sie, daß mein Werk und meine Bearbeitungen im Rahmen
 von Open-Source Aktivitäten jedenfalls unter der Lizenz **EUPL-1.2**
-veröffentlich sind.  Das entspricht meinen rechtlichen Anforderungen
+veröffentlicht sind.  Das entspricht meinen rechtlichen Anforderungen
 als Bürger der Europäischen Union, außerhalb aller U.S.-Gesetzgebung.
 Darüber hinaus hat die "Open Source Initiative" (OSI) die EUPL-1.2
-**anerkannt** und zudem zugestehen müssen, daß ein Rechtsbegriff der
-**"Public-Domain" in der Europäischen Union nicht existiert**.
+**anerkannt** und zudem zugestehen müssen, daß ein Rechtsbegriff wie
+die **"Public-Domain" in der Europäischen Union nicht existiert**.
 
 * <https://opensource.org/docs/osd>
 
