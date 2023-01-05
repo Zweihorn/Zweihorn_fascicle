@@ -24,7 +24,7 @@ aus dem jeweiligem sog. FOSS-Projekt oder aus einem zugehörigen Beitrag (PR).
 ### Rechtlicher Hinweis
 
 Bitte beachten Sie, daß mein Werk und meine Bearbeitungen im Rahmen
-von Open-Source Aktivitäten jedenfalls unter der Lizenz *EUPL-1.2**
+von Open-Source Aktivitäten jedenfalls unter der Lizenz **EUPL-1.2**
 veröffentlich sind.  Das entspricht meinen rechtlichen Anforderungen
 als Bürger der Europäischen Union, außerhalb aller U.S.-Gesetzgebung.
 Darüber hinaus hat die "Open Source Initiative" (OSI) die EUPL-1.2
