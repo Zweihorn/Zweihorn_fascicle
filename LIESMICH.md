@@ -18,7 +18,7 @@ HINWEIS: Der englisch-sprachige Text in [Datei: MAINTAINER.md](MAINTAINER.md).
 
         Lizenziert unter der EUPL
 
-Mein Werk und mein Beitrag können von Open-Source Aktivitäten abgleitet sein,
+Mein Werk mit Bearbeitungen kann von Open-Source Aktivitäten abgleitet sein,
 aus dem jeweiligem sog. FOSS-Projekt oder aus einem zugehörigen Beitrag (PR).
 
 ### Rechtlicher Hinweis
@@ -77,7 +77,7 @@ unmittelbar hinter dem Urheberrechtshinweis dieses Werks anbringt:
 oder in einer anderen Form zum Ausdruck bringt, dass er es unter der
 EUPL lizenzieren möchte.
 
-1. Begriffsbestimmungen
+#### 1. Begriffsbestimmungen
 
 Für diese Lizenz gelten folgende Begriffsbestimmungen:
 
@@ -119,7 +119,7 @@ oder anderweitiger Online- oder Offline-Bereitstellung von
 Vervielfältigungen des Werks oder Zugänglichmachung seiner wesentlichen
 Funktionen für dritte natürliche oder juristische Personen.
 
-2. Umfang der Lizenzrechte
+#### 2. Umfang der Lizenzrechte
 
 Der Lizenzgeber erteilt Ihnen hiermit für die Gültigkeitsdauer der am
 Originalwerk bestehenden Urheberrechte eine weltweite, unentgeltliche,
@@ -155,7 +155,7 @@ dem Lizenznehmer ein nicht ausschließliches, unentgeltliches
 Nutzungsrecht an seinen Patenten, sofern dies zur Ausübung der durch die
 Lizenz erteilten Nutzungsrechte am Werk notwendig ist.
 
-3. Zugänglichmachung des Quellcodes
+#### 3. Zugänglichmachung des Quellcodes
 
 Der Lizenzgeber kann das Werk entweder als Quellcode oder als
 ausführbaren Code zur Verfügung stellen. Stellt er es als ausführbaren
@@ -167,7 +167,7 @@ Urheberrechtshinweis auf einen Speicherort, an dem problemlos und
 unentgeltlich auf den Quellcode zugegriffen werden kann, solange der
 Lizenzgeber das Werk verbreitet oder zugänglich macht.
 
-4. Einschränkungen des Urheberrechts
+#### 4. Einschränkungen des Urheberrechts
 
 Es ist nicht Zweck dieser Lizenz, Ausnahmen oder Schranken der
 ausschließlichen Rechte des Urhebers am Werk, die dem Lizenznehmer
@@ -221,7 +221,7 @@ nicht für die angemessene und übliche Beschreibung der Herkunft des
 Werks und der inhaltlichen Wiedergabe des Urheberrechtshinweises
 erforderlich ist.
 
-6. Urheber und Bearbeiter
+#### 6. Urheber und Bearbeiter
 
 Der ursprüngliche Lizenzgeber gewährleistet, dass er das Urheberrecht am
 Originalwerk innehat oder dieses an ihn lizenziert wurde und dass er
@@ -232,7 +232,7 @@ Sie die Lizenz annehmen, erteilen Ihnen der ursprüngliche Lizenzgeber
 und alle folgenden Bearbeiter eine Befugnis zur Nutzung ihrer Beiträge
 zum Werk unter den Bedingungen dieser Lizenz.
 
-7. Gewährleistungsausschluss
+#### 7. Gewährleistungsausschluss
 
 Die Arbeit an diesem Werk wird laufend fortgeführt; es wird durch
 unzählige Bearbeiter ständig verbessert. Das Werk ist nicht vollendet
@@ -246,7 +246,7 @@ dem Urheberrecht (vgl. dazu Artikel 6 dieser Lizenz). Dieser
 Gewährleistungsausschluss ist wesentlicher Bestandteil der Lizenz und
 Bedingung für die Einräumung von Rechten an dem Werk.
 
-8. Haftungsausschluss/Haftungsbeschränkung
+#### 8. Haftungsausschluss/Haftungsbeschränkung
 
 Außer in Fällen von Vorsatz oder der Verursachung von Personenschäden
 haftet der Lizenzgeber nicht für direkte oder indirekte, materielle oder
@@ -259,7 +259,7 @@ solcher Schäden hingewiesen wurde. Unabhängig davon haftet der
 Lizenzgeber im Rahmen der gesetzlichen Produkthaftung, soweit die
 entsprechenden Regelungen auf das Werk anwendbar sind.
 
-9. Zusatzvereinbarungen
+#### 9. Zusatzvereinbarungen
 
 Wenn Sie das Werk verbreiten, können Sie Zusatzvereinbarungen schließen,
 in denen Verpflichtungen oder Dienstleistungen festgelegt werden, die
@@ -272,7 +272,7 @@ freizustellen, falls aufgrund der von Ihnen eingegangenen
 Gewährleistungsverpflichtung oder Haftungsübernahme Forderungen gegen
 sie geltend gemacht werden oder eine Haftungsverpflichtung entsteht.
 
-10. Annahme der Lizenz
+#### 10. Annahme der Lizenz
 
 Sie können den Bestimmungen dieser Lizenz zustimmen, indem Sie das
 Symbol „Lizenz annehmen“ unter dem Fenster mit dem Lizenztext anklicken
@@ -285,7 +285,7 @@ Ausübung eines Rechtes, das in Artikel 2 dieser Lizenz angeführt ist,
 wie das Erstellen einer Bearbeitung oder die Verbreitung oder
 Zugänglichmachung des Werks oder dessen Vervielfältigungen.
 
-11. Informationspflichten
+#### 11. Informationspflichten
 
 Wenn Sie das Werk verbreiten oder zugänglich machen (beispielsweise,
 indem Sie es zum Herunterladen von einer Website anbieten), müssen Sie
@@ -296,7 +296,7 @@ Zugänglichkeit, des Abschlusses des Lizenzvertrags sowie darüber, wie
 die Lizenz durch den Lizenznehmer gespeichert und vervielfältigt werden
 kann, erforderlich sind.
 
-12. Beendigung der Lizenz
+#### 12. Beendigung der Lizenz
 
 Die Lizenz und die damit eingeräumten Rechte erlöschen automatisch, wenn
 der Lizenznehmer gegen die Lizenzbedingungen verstößt. Ein solches
@@ -305,7 +305,7 @@ Personen, denen das Werk vom Lizenznehmer unter dieser Lizenz zur
 Verfügung gestellt worden ist, solange diese Personen die
 Lizenzbedingungen erfüllen.
 
-13. Sonstiges
+#### 13. Sonstiges
 
 Unbeschadet des Artikels 9 stellt die Lizenz die vollständige
 Vereinbarung der Parteien über das Werk dar. Sind einzelne Bestimmungen
@@ -321,7 +321,7 @@ Alle von der Europäischen Kommission anerkannten Sprachfassungen dieser
 Lizenz sind gleichwertig. Die Parteien können sich auf die Sprachfassung
 ihrer Wahl berufen.
 
-14. Gerichtsstand
+#### 14. Gerichtsstand
 
 Unbeschadet besonderer Vereinbarungen zwischen den Parteien gilt
 Folgendes:
@@ -337,7 +337,7 @@ Auslegung dieser Lizenz ist allein der Ort, an dem der Lizenzgeber
 seinen Wohnsitz oder den wirtschaftlichen Mittelpunkt seiner Tätigkeit
 hat.
 
-15. Anwendbares Recht
+#### 15. Anwendbares Recht
 
 Unbeschadet besonderer Vereinbarungen zwischen den Parteien gilt
 Folgendes:
@@ -350,7 +350,7 @@ Sitz hat;
 keinen Sitz, Wohnsitz oder eingetragenen Sitz in einem Mitgliedstaat der
 Europäischen Union hat.
 
-Anlage
+#### Anlage
 
 „Kompatible Lizenzen“ nach Artikel 5 der EUPL sind:
 

@@ -10,14 +10,14 @@ mynotes_macports.md
 This checklist will pop-up by default in the text area of any new PR at the
 [MacPorts](https://guide.macports.org/#project.github) GitHub repository.
 
-The very useful MacPorts _default checklist__ for PRs on ports at GitHub was kindly
+This very useful MacPorts _default checklist__ for PRs on ports at GitHub was kindly
 [provided by the MacPorts developers](https://guide.macports.org/#project.github).
 It was copied here to allow easier access (for myself) while working on improving ports,
 however without any specific PR context and amended by myself obviously.
 
 _!-- ## Content amended as TEXT of the MacPorts template comes below this delimiter. ## --_
 
-This is the new ${name} port delivering a cutting edge piece of work. Why is this wrong?
+This is the new ${name} port delivering a cutting edge piece of work. [Why is this **wrong**?](https://trac.macports.org/wiki/CommitMessages)
 
 #### Description
 
@@ -63,6 +63,7 @@ _!-- Use "skip notification" (surrounded with []) to avoid notifying maintainers
 
 _!-- ## Content as amended TEXT of the MacPorts template closed above this delimiter. ## --_
 
+Please always heed the [Guidelines for Commit Messages at MacPorts](https://trac.macports.org/wiki/CommitMessages)
 
 <!-- ## Content of the MacPorts template comes below this delimiter. ## -->
 ```

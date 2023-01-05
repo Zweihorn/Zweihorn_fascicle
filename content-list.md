@@ -3,7 +3,8 @@ content-list.md
 
 # Content List (bilingual) / Zweisprachiges Inhaltsverzeichnis
 
-The Content List to the Repository / Das Inhaltsverzeichnis zum Software-Archiv
+The Content List to this Repository / Das Inhaltsverzeichnis zum Software-Archiv
+
 
 ## Preface / Vorwort
 
@@ -17,7 +18,7 @@ More introductory information at [File: README.md](README.md)
 
 ### Einführung auf Deutsch
 
-HINWEIS: Dieses Dokument ist ein ENTWURF d.h. "WIP - work in progress"
+HINWEIS: Dieses Dokument ist ein ENTWURF d.h. "WIP - work in progress / in Arbeit"
 
 Dieses zweisprachige Inhaltsverzeichnis zu diesem Archiv ist im MarkDown-Format gehalten.
 
@@ -32,7 +33,7 @@ Provides the copyright notice and the license of the Maintainer to the Repositor
 
 [File: / Datei: MAINTAINER.md](MAINTAINER.md)
 
-Führt den Urheberrechtshinweis und dient als Einführung für das Software-Archiv.
+Führt den Urheberrechtshinweis und nennt den Bearbeiter für das Software-Archiv.
 
 
 ### LIESMICH / README

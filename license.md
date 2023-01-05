@@ -3,6 +3,9 @@ license.md
 
 # License
 
+More applicable information at [File: MAINTAINER.md](MAINTAINER.md)
+
+
 ## Open Source Licence Information
 
 More general information at:
@@ -12,5 +15,3 @@ More general information at:
 * <https://joinup.ec.europa.eu/collection/eupl/documentation-repository-guidelines-documents-faqs>
 
 * <https://opensource.org/licenses/alphabetical>
-
-More applicable information at [File: MAINTAINER.md](MAINTAINER.md)
