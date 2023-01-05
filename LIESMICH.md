@@ -174,7 +174,7 @@ ausschließlichen Rechte des Urhebers am Werk, die dem Lizenznehmer
 zugutekommen, einzuschränken. Auch die Erschöpfung dieser Rechte bleibt
 von dieser Lizenz unberührt.
 
-5.Pflichten des Lizenznehmers
+#### 5. Pflichten des Lizenznehmers
 
 Die Einräumung der oben genannten Rechte ist an mehrere Beschränkungen
 und Pflichten für den Lizenznehmer gebunden:
