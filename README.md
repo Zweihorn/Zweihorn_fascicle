@@ -42,7 +42,7 @@ and agrees, that **public domain doesn't exist in Europe**.
 - Québec Free and Open-Source Licence — Reciprocity (LiLiQ-R) or Strong
   Reciprocity (LiLiQ-R+).
 
-_(2023-01-06)_
+_(2023-01-04)_
 
 #### Maintainer License Information
 
