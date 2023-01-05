@@ -36,9 +36,10 @@ Triple-click and copy the next line and paste it into your shell. It will copy y
 --_
 ```
 sh -c 'echo "macOS $(sw_vers -productVersion) $(sw_vers -buildVersion) $(uname -m)"; \
-xcode=$(xcodebuild -version 2>/dev/null); if [ $? == 0 ]; \
-then echo "$(echo "$xcode" | awk '\''NR==1{x=$0}END{print x" "$NF}'\'')"; \
-else echo "Command Line Tools $(pkgutil --pkg-info=com.apple.pkg.CLTools_Executables | \
+xcode=$(xcodebuild -version 2>/dev/null); \
+if [ $? == 0 ]; \
+    then echo "$(echo "$xcode" | awk '\''NR==1{x=$0}END{print x" "$NF}'\'')"; \
+    else echo "Command Line Tools $(pkgutil --pkg-info=com.apple.pkg.CLTools_Executables | \
 awk '\''/version:/ {print $2}'\'')"; fi' | tee /dev/tty | pbcopy
 ```
 
