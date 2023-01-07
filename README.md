@@ -25,6 +25,9 @@ requirement as an European citizen thus outside U.S. jurisdiction.
 Furthermore, the Open Source Initiative (OSI) **approves** of EUPL-1.2
 and agrees, that **public domain doesn't exist in Europe**.
 
+The 'Disclaimer of Warranty' according to Article 7 EUPL is an essential part of the
+Licence and a condition for the grant of any rights to the Work.
+
 #### Licence compatibility from the EUPL ‘Appendix’
 
 ‘Compatible Licences’ according to Article 5 EUPL are:
