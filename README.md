@@ -1,7 +1,7 @@
 README.md
 =========
 
-# The Zweihorn_**fascicle**
+# The Zweihorn_fascicle
 
 from Latin _fasciculus_, diminutive of _fascis_ ‘**bundle**’: a separately published instalment of a book or other work
 
@@ -25,9 +25,6 @@ requirement as an European citizen thus outside U.S. jurisdiction.
 Furthermore, the Open Source Initiative (OSI) **approves** of EUPL-1.2
 and agrees, that **public domain doesn't exist in Europe**.
 
-The 'Disclaimer of Warranty' according to Article 7 EUPL is an essential part of the
-Licence and a condition for the grant of any rights to the Work.
-
 #### Licence compatibility from the EUPL ‘Appendix’
 
 ‘Compatible Licences’ according to Article 5 EUPL are:
@@ -46,6 +43,11 @@ Licence and a condition for the grant of any rights to the Work.
   Reciprocity (LiLiQ-R+).
 
 _(2023-01-04)_
+
+#### Disclaimer of Warranty
+
+The 'Disclaimer of Warranty' according to Article 7 EUPL is an essential part of the
+Licence and a condition for the grant of any rights to the Work.
 
 #### Maintainer License Information
 
