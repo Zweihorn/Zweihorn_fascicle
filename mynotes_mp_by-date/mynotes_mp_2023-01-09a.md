@@ -3,7 +3,6 @@ mynotes_mp_2023-01-09a.md
 
 # Default Intro to Notes
 ## My Distribution
-
 ### Maintainer License Information
 
 More information at [File: ../MAINTAINER.md](../MAINTAINER.md) in this repository.
@@ -19,6 +18,13 @@ The cover page and introduction found at [File: ../README.md](../README.md).
 
 
 # My Notes from 2023-01-09
+
+## Pull Request(s)
+
+PR [#17258](https://github.com/macports/macports-ports/pull/17258)
+
+## The `minetest` replace
+### Rationale:
 
 Always first do a `port lint --nitpick minetest` to identify typos and caveats in the
 Portfile.
