@@ -7,10 +7,10 @@ mynotes_mp_2023-01-09b.md
 
 More information at [File: ../MAINTAINER.md](../MAINTAINER.md) in this repository.
 
-### Back to MP Minetest
+### Back to MP IrrLichtMT
 
 My notes on general **IrrlichtMT** port development found at
-[File: ../MyNotes_MP_Minetest.md](../mynotes_mp_minetest.md)
+[File: ../MyNotes_MP_IrrLichtMT.md](../mynotes_mp_irrlichtmt.md)
 
 ### Back to the Top
 
