@@ -53,6 +53,11 @@ Licence and a condition for the grant of any rights to the Work.
 
 More information at [File: MAINTAINER.md](MAINTAINER.md) in this repository.
 
+### FOSS commits
+
+Find some notes from a poor old private FOSS developer and an imbecile made new maintainer
+at [File: MyNotes_MacPorts.md](mynotes_macports.md)
+
 ### Technical
 
 There may be good reasons to use [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD). However, there are [good reasons](https://en.wikipedia.org/wiki/Linux) to use [Linux](https://www.linux.com/) (including but not limited to being a [EU citizen](https://ec.europa.eu/info/aid-development-cooperation-fundamental-rights/your-rights-eu/eu-charter-fundamental-rights_en)).

@@ -1,7 +1,28 @@
 mynotes_macports.md
 ===================
 
-# My Notes on **[MacPorts](https://www.macports.org/)**
+# My [MacPorts](https://www.macports.org/) silly [FOSS](https://www.debian.org/intro/free) commits
+
+## My Distribution
+
+### Maintainer License Information
+
+More information at [File: MAINTAINER.md](MAINTAINER.md) in this repository.
+
+### My Notes on Specific Ports
+
+Notes from a poor old sod of a FOSS developer and an imbecile made Maintainer of Port(s).
+
+- [File: MyNotes_MP_Minetest.md](mynotes_mp_minetest.md)
+- _tbc?_
+
+
+### Back to the Top
+
+The cover page and introduction found at [File: README.md](README.md).
+
+
+# My Notes on **[MacPorts](https://www.macports.org/)** in General
 
 ## Templates and Check Lists
 
