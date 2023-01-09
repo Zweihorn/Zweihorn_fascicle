@@ -24,6 +24,10 @@ The cover page and introduction found at [File: README.md](README.md).
 
 PR [#17258](https://github.com/macports/macports-ports/pull/17258)
 
+This PR and amend integrate well with the new 'irrlichtmt-mt56' port family.
+
+Ref [#17255](https://github.com/macports/macports-ports/pull/17255)
+
 ### The ongoing trial of a 'minetest' replace
 
 Some list of some notes:

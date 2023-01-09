@@ -15,6 +15,7 @@ Notes from a poor old sod of a FOSS developer and an imbecile made Maintainer of
 
 - [File: MyNotes_MP_Minetest.md](mynotes_mp_minetest.md)
 - [File: MyNotes_MP_IrrLichtMT.md](mynotes_mp_irrlichtmt.md)
+- [File: MyNotes_MP_Guide-aDoc.md](mynotes_mp_guide-adoc.md)
 - _tbc?_
 
 
@@ -23,7 +24,8 @@ Notes from a poor old sod of a FOSS developer and an imbecile made Maintainer of
 The cover page and introduction found at [File: README.md](README.md).
 
 
-# My Notes on **[MacPorts](https://www.macports.org/)** in General
+My Notes on **[MacPorts](https://www.macports.org/)** in General
+================================================================
 
 ## Templates and Check Lists
 
@@ -39,7 +41,8 @@ however without any specific PR context and amended by myself obviously.
 
 _!-- ## Content amended as TEXT of the MacPorts template comes below this delimiter. ## --_
 
-This is the new ${name} port delivering a cutting edge piece of work. [Why is this **wrong**?](https://trac.macports.org/wiki/CommitMessages)
+This is the new ${name} port delivering a cutting edge piece of work.
+[Why is this **wrong**?](https://trac.macports.org/wiki/CommitMessages)
 
 #### Description
 

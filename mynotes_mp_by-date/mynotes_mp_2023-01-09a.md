@@ -17,7 +17,8 @@ My notes on general Minetest port development found at
 The cover page and introduction found at [File: ../README.md](../README.md).
 
 
-# My Notes from 2023-01-09
+My Notes from 2023-01-09
+========================
 
 ## Pull Request(s)
 
