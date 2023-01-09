@@ -11,8 +11,8 @@ More information at [File: MAINTAINER.md](MAINTAINER.md) in this repository.
 
 ### My Notes on Specific Ports
 
-Notes from a [poor old sod](https://youtu.be/i19d1QnstsA) of a [FOSS](license.md) developer
-and an [imbecile](https://youtu.be/Lzu7f2q2hW4) made
+Notes from a [poor old sod](https://youtu.be/i19d1QnstsA) of a [FOSS](license.md)
+developer and an [imbecile](https://youtu.be/Lzu7f2q2hW4) made
 [Maintainer](https://guide.macports.org/#introduction) of [Port(s)](https://ports.macports.org/).
 
 - Minetest Port Development - [File: MyNotes_MP_Minetest.md](mynotes_mp_minetest.md)
