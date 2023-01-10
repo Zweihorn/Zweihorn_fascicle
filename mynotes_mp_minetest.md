@@ -34,5 +34,14 @@ Some list of some notes:
 - [2023-01-07](mynotes_mp_by-date/mynotes_mp_2023-01-07.md)
 - [2023-01-08](mynotes_mp_by-date/mynotes_mp_2023-01-08a.md)
 - [2023-01-09](mynotes_mp_by-date/mynotes_mp_2023-01-09a.md)
+- [2023-01-10](mynotes_mp_by-date/mynotes_mp_2023-01-10a.md)
 - _tbc_
+
+
+## Old News
+
+Obsolete PRs were:
+- PR [#17153](https://github.com/macports/macports-ports/pull/17153)
+- PR [#17161](https://github.com/macports/macports-ports/pull/17161)
+- PR [#17241](https://github.com/macports/macports-ports/pull/17241)
 

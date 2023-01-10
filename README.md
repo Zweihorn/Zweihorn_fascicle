@@ -1,10 +1,11 @@
 README.md
 =========
 
-# The Zweihorn_fascicle
+# fascicle
 
 from Latin _fasciculus_, diminutive of _fascis_ ‘**bundle**’: a separately published instalment of a book or other work
 
+# Cover Page
 ## Profile
 
 "**Quot capita, tot sensus**" – There are as many opinions as there are heads – **Terence** (around 166–160 BC)
@@ -55,10 +56,10 @@ More information at [File: MAINTAINER.md](MAINTAINER.md) in this repository.
 
 ### FOSS commits
 
-Welcome.  Please be invited to have a second reading and a first listening too at
-[File: MyNotes_MacPorts.md](mynotes_macports.md), if I may.
+Welcome.  Have a second reading and a first listening too at
+[File: MyNotes_MacPorts.md](mynotes_macports.md).
 
-Find some notes from a poor old private FOSS developer and an imbecile made new maintainer.
+An old private FOSS developer and an innocently funny idea of furiously free fuzz.
 
 ### Technical
 

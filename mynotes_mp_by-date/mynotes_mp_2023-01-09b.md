@@ -12,7 +12,7 @@ More information at [File: ../MAINTAINER.md](../MAINTAINER.md) in this repositor
 My notes on general **IrrlichtMT** port development found at
 [File: ../MyNotes_MP_IrrLichtMT.md](../mynotes_mp_irrlichtmt.md)
 
-### Back to the Top
+### Back to Cover Page
 
 The cover page and introduction found at [File: ../README.md](../README.md).
 
