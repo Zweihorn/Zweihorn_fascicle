@@ -24,6 +24,9 @@ My Notes from 2023-01-08
 
 PR [#17255](https://github.com/macports/macports-ports/pull/17255)
 
+[Closing comment](https://github.com/macports/macports-ports/pull/17241#issuecomment-1374876873)
+to obsolete PR [#17241](https://github.com/macports/macports-ports/pull/17241)
+
 ## The `irrlichtmt` replace
 
 Started by text of a.m. PR and moved here for clarity and better PR readability.

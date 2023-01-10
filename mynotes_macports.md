@@ -15,11 +15,13 @@ Notes from a [poor old sod](https://youtu.be/i19d1QnstsA) of a [FOSS](license.md
 developer and an [imbecile](https://youtu.be/Lzu7f2q2hW4) made
 [Maintainer](https://guide.macports.org/#introduction) of [Port(s)](https://ports.macports.org/).
 
-- Minetest Port Development - [File: MyNotes_MP_Minetest.md](mynotes_mp_minetest.md)
-- IrrLichtMT Port Development - [File: MyNotes_MP_IrrLichtMT.md](mynotes_mp_irrlichtmt.md)
-- MacPorts Guide QA & Documentary - [File: MyNotes_MP_Guide-aDoc.md](mynotes_mp_guide-adoc.md)
+My maintained ports:
+- Minetest Port Development - [File: MyNotes_MP_Minetest.md](mynotes_mp_minetest.md) - maintainer
+- IrrLichtMT Port Development - [File: MyNotes_MP_IrrLichtMT.md](mynotes_mp_irrlichtmt.md) - co-maintainer
 - _tbc?_
 
+My documentary effort:
+- MacPorts Guide QA & Documentary - [File: MyNotes_MP_Guide-aDoc.md](mynotes_mp_guide-adoc.md) - _WIP_
 
 ### Back to the Top
 

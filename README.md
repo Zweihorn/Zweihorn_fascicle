@@ -55,11 +55,10 @@ More information at [File: MAINTAINER.md](MAINTAINER.md) in this repository.
 
 ### FOSS commits
 
-Welcome.  Please be invited to have a second reading and a first listening too, if I may.
+Welcome.  Please be invited to have a second reading and a first listening too at
+[File: MyNotes_MacPorts.md](mynotes_macports.md), if I may.
 
-Find some notes from a poor old private FOSS developer and an imbecile made new maintainer
-at [File: MyNotes_MacPorts.md](mynotes_macports.md)
-
+Find some notes from a poor old private FOSS developer and an imbecile made new maintainer.
 
 ### Technical
 

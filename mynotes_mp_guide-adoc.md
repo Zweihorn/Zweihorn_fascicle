@@ -26,7 +26,7 @@ My MacPorts Guide QA & Documentary Notes
 ### Pull Request(s)
 
 IMO the [MacPorts Guide](https://guide.macports.org/) could improve from quality assurance
-(QA) and actions as follows.  Nevertheless the Guide provides excellent advice.
+(QA) and actions as follows.  Nevertheless the Guide is excellent advice.
 
 PR [#53](https://github.com/macports/macports-guide/pull/53)
 
