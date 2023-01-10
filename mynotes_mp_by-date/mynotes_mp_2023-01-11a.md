@@ -1,4 +1,4 @@
-mynotes_mp_2023-01-10a.md
+mynotes_mp_2023-01-11a.md
 =========================
 
 # Default Intro to Notes
@@ -17,14 +17,14 @@ My notes on general Minetest port development found at
 The cover page and introduction found at [File: ../README.md](../README.md).
 
 
-My Notes from 2023-01-10
+My Notes from 2023-01-11
 ========================
 
 ## Pull Request(s)
 
 PR [#17258](https://github.com/macports/macports-ports/pull/17258)
 
-## The `minetest` replace
+## The `minetest` amend
 ### Rationale:
 
 TBD
