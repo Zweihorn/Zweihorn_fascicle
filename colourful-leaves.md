@@ -49,9 +49,6 @@ HINWEIS: Der englisch-sprachige Lizensierungstext in [Datei: MAINTAINER.md](MAIN
 
 ### Christian Morgenstern (DE)
 
-**Christian Morgenstern** lebte von 1871 bis 1914 und hat dabei wunderbare lyrische Grotesken
-verfasst, also zahlreiche schräge oder lustige Gedichte hinterlassen.
-
 > **Christian Otto Josef Wolfgang Morgenstern** (* 6. Mai 1871 in
 > München; † 31. März 1914 in Untermais, Tirol, Österreich-Ungarn) war
 > ein deutscher Dichter, Schriftsteller und Übersetzer.  Besondere
@@ -71,9 +68,35 @@ verfasst, also zahlreiche schräge oder lustige Gedichte hinterlassen.
 > to health, allowed him to meet many of the foremost literary and
 > philosophical figures of his time in central Europe.
 
+_Songs from the Gallows: Galgenlieder._ Translated by Walter Arndt. Yale University Press, New Haven 1993.
+
 <https://en.wikipedia.org/wiki/Christian_Morgenstern>
 
 ### Galgenlieder, Palmström, Palma Kunkel, Der Gingganz
+
+**Christian Morgenstern** lebte von 1871 bis 1914 und hat dabei (nur unter anderem auch) ganz wunderbare lyrische Grotesken
+verfasst, also zahlreiche schräge oder lustige Gedichte hinterlassen.
+
+> Zum geflügelten deutschen Wort wurde der Schluß des Gedichts _Die unmögliche Tatsache_ (aus _Palmström_):
+```
+Und er kommt zu dem Ergebnis:
+Nur ein Traum war das Erlebnis.
+Weil, so schließt er messerscharf,
+nicht sein kann, was nicht sein darf.
+```
+> Sein **Nasobēm** inspirierte den Zoologen Gerolf Steiner zur Schöpfung
+> der (fiktiven) Ordnung der _Rhinogradentia_, ein
+> wissenschaftlich-satirischer Scherz, der sich international
+> verbreitete und später seine bekannteste Nachahmung in Loriots
+> _Steinlaus_ fand.
+
+_(ebda.)_
+
+Im Folgenden sei eine lose Folge und nur kleine persönliche Auswahl aus dem nachstehenden
+Werk Morgensterns nur ganz gelegentlich zitiert:
+
+_Alle Galgenlieder (= Galgenlieder, Palmström, Palma Kunkel und Gingganz)_. Durch 14 Gedichte
+aus dem Nachlass erweitert und hrsg. von Margareta Morgenstern. Bruno Cassirer, Berlin 1932.
 
 #### Schicksal
 
