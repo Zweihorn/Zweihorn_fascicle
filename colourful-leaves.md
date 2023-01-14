@@ -45,10 +45,35 @@ HINWEIS: Der englisch-sprachige Lizensierungstext in [Datei: MAINTAINER.md](MAIN
 
 ## Christian Morgenstern
 
+### Christian Morgenstern (DE)
+
 **Christian Morgenstern** lebte von 1871 bis 1914 und hat dabei wunderbare lyrische Grotesken
 verfasst, also zahlreiche schräge oder lustige Gedichte hinterlassen.
 
-### Schicksal
+> **Christian Otto Josef Wolfgang Morgenstern** (* 6. Mai 1871 in
+> München; † 31. März 1914 in Untermais, Tirol, Österreich-Ungarn) war
+> ein deutscher Dichter, Schriftsteller und Übersetzer.  Besondere
+> Bekanntheit erreichte seine komische Lyrik, die jedoch nur einen Teil
+> seines Werkes ausmacht.
+
+<https://de.wikipedia.org/wiki/Christian_Morgenstern>
+
+### Christian Morgenstern (EN)
+
+> **Christian Otto Josef Wolfgang Morgenstern** (6 May 1871 – 31 March
+> 1914) was a German author and poet from Munich.  Morgenstern married
+> Margareta Gosebruch von Liechtenstern on 7 March 1910.  He worked for a
+> while as a journalist in Berlin, but spent much of his life traveling
+> through Germany, Switzerland, and Italy, primarily in a vain attempt
+> to recover his health.  His travels, though they failed to restore him
+> to health, allowed him to meet many of the foremost literary and
+> philosophical figures of his time in central Europe.
+
+<https://en.wikipedia.org/wiki/Christian_Morgenstern>
+
+### Galgenlieder, Palmström, Palma Kunkel, Der Gingganz
+
+#### Schicksal
 
 ```
 Der Wolke Zickzackzunge spricht:
