@@ -13,19 +13,21 @@ Colourful Leaves
 
 ## Bunte Blätter (2)
 
-_Meine bunten Blätter_ finden Sie dagegen hier nachstehend als mehrheitlich textliches Sammelsurium.
+Meine Sammlung _Bunte Blätter_ finden Sie dagegen hier nachstehend als mehrheitlich textliches Sammelsurium.
 
-Der Titel ist nur zufällig ähnlich und möchte ich mich nicht mit dem Komponisten Robert Schumann
+Der Titel ist nur rein zufällig ähnlich, und möchte ich mich nicht mit dem Komponisten Robert Schumann
 in irgendeiner Weise zu messen suchen.  Das wäre wohl reichlich vermessen und ist hier natürlich nicht angebracht.
+
+Ein wunderschöner Querbezug ist es trotzdem, obwohl ich selbst leider nie das Klavierspielen lernen durfte.
 
 ## Colorful Leaves
 
 > **Bunte Blätter** (English: Colorful Leaves), Op. 99, is a collection of
-piano pieces by Robert Schumann assembled from earlier unpublished
-pieces after the success of the _Album for the Young_ (Album für die
-Jugend), Op. 68.  Upon publication the pieces were issued both as a
-complete set and individual pieces, the latter in differently colored
-covers.
+> piano pieces by Robert Schumann assembled from earlier unpublished
+> pieces after the success of the _Album for the Young_ (Album für die
+> Jugend), Op. 68.  Upon publication the pieces were issued both as a
+> complete set and individual pieces, the latter in differently colored
+> covers.
 
 <https://en.wikipedia.org/wiki/Bunte_Bl%C3%A4tter>
 
@@ -41,7 +43,7 @@ NOTE: More license information in English at [File: MAINTAINER.md](MAINTAINER.md
 
 HINWEIS: Der englisch-sprachige Lizensierungstext in [Datei: MAINTAINER.md](MAINTAINER.md).
 
-# Meine bunten Blätter
+# Bunte Blätter
 
 ## Christian Morgenstern
 
