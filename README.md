@@ -5,7 +5,13 @@ README.md
 
 from Latin _fasciculus_, diminutive of _fascis_ ‘**bundle**’: a separately published instalment of a book or other work
 
-# Cover Page
+# Gesammeltes (DE)
+
+## Bunte Blätter (DE)
+
+Meine _bunten Blätter_ finden Sie unter [Datei: Colourful-Leaves.md](colourful-leaves.md)
+
+# Cover Page (EN)
 ## Profile
 
 "**Quot capita, tot sensus**" – There are as many opinions as there are heads – **Terence** (around 166–160 BC)

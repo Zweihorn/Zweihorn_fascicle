@@ -1,16 +1,22 @@
 LIESMICH.md
 ===========
 
+# Gesammeltes
+
+## Bunte Blätter
+
+Meine _bunten Blätter_ finden Sie unter [Datei: Colourful-Leaves.md](colourful-leaves.md)
+
 # Bearbeiter- und Urheberrechtshinweis
 
-Diese Datei dient als deutsch-sprachige Einführung für das Software-Archiv.
+Diese Datei dient als deutsch-sprachige Einführung für dieses Werk und Archiv.
 
 NOTE: More information in English at [File: MAINTAINER.md](MAINTAINER.md).
 
 HINWEIS: Der englisch-sprachige Text in [Datei: MAINTAINER.md](MAINTAINER.md).
 
 
-## Informationen zur Open-Source Lizenzierung als Bearbeiter der Software
+## Informationen zur Open-Source Lizenzierung als Bearbeiter
 
 ### Bearbeiter und Lizenzgeber mit Urheberrechtshinweis
 
