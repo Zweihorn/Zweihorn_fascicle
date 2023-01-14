@@ -51,12 +51,12 @@ verfasst, also zahlreiche schräge oder lustige Gedichte hinterlassen.
 ### Schicksal
 
 > Der Wolke Zickzackzunge spricht:
-> "Ich bringe dir, mein Hammel, Licht."
+>  "Ich bringe dir, mein Hammel, Licht."
 >
 > Der Hammel, der im Stalle stand,
-> ward links und hinten schwarz gebrannt.
+>  ward links und hinten schwarz gebrannt.
 >
 > Sein Leben grübelt er seitdem:
-> warum ihm dies geschah, von wem?
+>  warum ihm dies geschah, von wem?
 
 ### _(wird fortgesetzt)_
