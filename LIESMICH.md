@@ -12,11 +12,11 @@ Laß das Tüfteln, laß das Hobeln,
 heilig halte die Ekstasen!
 ```
 
-_aus: Galgenlieder, von Christan Morgenstern__
+_aus: Galgenlieder, von Christan Morgenstern_
 
 ## Bunte Blätter
 
-Meine klitzekleine Literatursammlung _Bunte Blätter_ finden Sie unter
+Meine klitzekleine Literatursammlung _Bunte Blätter_ finden Sie unter der
 [Datei: Colourful-Leaves.md](colourful-leaves.md)
 
 # Bearbeiter- und Urheberrechtshinweis

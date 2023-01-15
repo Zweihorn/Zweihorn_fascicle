@@ -5,14 +5,11 @@ README.md
 
 from Latin _fasciculus_, diminutive of _fascis_ ‘**bundle**’: a separately published instalment of a book or other work
 
-# Gesammeltes (DE)
+## Motto und Gesammeltes (DE)
 
-## Bunte Blätter (DE)
+Die [Datei: LIESMICH.md](LIESMICH.md) trägt das Motto und dient als deutsch-sprachige Einführung für Werk und Archiv.
 
-Meine klitzekleine Literatursammlung _Bunte Blätter_ finden Sie unter der [Datei: Colourful-Leaves.md](colourful-leaves.md)
-
-# Cover Page (EN)
-## Profile
+## Profile (EN)
 
 "**Quot capita, tot sensus**" – There are as many opinions as there are heads – **Terence** (around 166–160 BC)
 
@@ -22,6 +19,8 @@ Meine klitzekleine Literatursammlung _Bunte Blätter_ finden Sie unter der [Date
 > performed for the first time around 166–160 BC.
 
 * More information at: <https://en.wikipedia.org/wiki/Terence>
+
+# Cover Page
 
 ## Commitment
 
