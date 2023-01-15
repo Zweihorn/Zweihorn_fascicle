@@ -9,14 +9,17 @@ from Latin _fasciculus_, diminutive of _fascis_ ‘**bundle**’: a separately p
 
 ## Bunte Blätter (DE)
 
-Meine _bunten Blätter_ finden Sie unter [Datei: Colourful-Leaves.md](colourful-leaves.md)
+Meine klitzekleine Literatursammlung _Bunte Blätter_ finden Sie unter der [Datei: Colourful-Leaves.md](colourful-leaves.md)
 
 # Cover Page (EN)
 ## Profile
 
 "**Quot capita, tot sensus**" – There are as many opinions as there are heads – **Terence** (around 166–160 BC)
 
-> **Publius Terentius Afer** (/təˈrɛnʃiəs, -ʃəs/; c. 195/185 – c. 159? BC), better known in English as **Terence** (/ˈtɛrəns/), was a Roman African playwright during the Roman Republic. His comedies were performed for the first time around 166–160 BC.
+> **Publius Terentius Afer** (/təˈrɛnʃiəs, -ʃəs/; c. 195/185 – c. 159?
+> BC), better known in English as **Terence** (/ˈtɛrəns/), was a Roman
+> African playwright during the Roman Republic. His comedies were
+> performed for the first time around 166–160 BC.
 
 * More information at: <https://en.wikipedia.org/wiki/Terence>
 
@@ -69,10 +72,19 @@ An old private FOSS developer and an innocently funny idea of furiously free fuz
 
 ### Technical
 
-There may be good reasons to use [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD). However, there are [good reasons](https://en.wikipedia.org/wiki/Linux) to use [Linux](https://www.linux.com/) (including but not limited to being a [EU citizen](https://ec.europa.eu/info/aid-development-cooperation-fundamental-rights/your-rights-eu/eu-charter-fundamental-rights_en)).
+There may be good reasons to use [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD).
+However, there are [good reasons](https://en.wikipedia.org/wiki/Linux) to use
+[Linux](https://www.linux.com/) (including but not limited to being a
+[EU citizen](https://ec.europa.eu/info/aid-development-cooperation-fundamental-rights/your-rights-eu/eu-charter-fundamental-rights_en)).
+
 :wink: :earth_africa:
 
-Unfortunately, one [cannot ignore tribal aspects](https://en.wikipedia.org/wiki/Communication) and [any community effort](https://www.debian.org/intro/free) can degrade into [lost debates](https://en.wikipedia.org/wiki/Dogma) or other [complex issues](https://ownyourbits.com/2017/06/12/why-nextcloudpi-uses-apache-and-not-nginx/).  Naturally,  [technical and deployment aspects](https://nextcloud.com/support/) should always matter most and you are [free to choose](https://en.wikipedia.org/wiki/Free_and_open-source_software).
+Unfortunately, one [cannot ignore tribal aspects](https://en.wikipedia.org/wiki/Communication)
+and [any community effort](https://www.debian.org/intro/free) can degrade into
+[lost debates](https://en.wikipedia.org/wiki/Dogma) or other
+[complex issues](https://ownyourbits.com/2017/06/12/why-nextcloudpi-uses-apache-and-not-nginx/).
+Naturally,  [technical and deployment aspects](https://nextcloud.com/support/) should always
+matter most and you are [free to choose](https://en.wikipedia.org/wiki/Free_and_open-source_software).
 
 :innocent: :restroom:
 

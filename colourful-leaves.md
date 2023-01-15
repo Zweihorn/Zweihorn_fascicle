@@ -1,5 +1,5 @@
-ColourfulLeaves.md
-==================
+Colourful-Leaves.md
+===================
 
 # Gesammeltes
 
@@ -65,7 +65,8 @@ _Songs from the Gallows: Galgenlieder._ Translated by Walter Arndt. Yale Univers
 
 > **Christian Otto Josef Wolfgang Morgenstern** (6 May 1871 – 31 March
 > 1914) was a German author and poet from Munich.  Morgenstern married
-> Margareta Gosebruch von Liechtenstern on 7 March 1910.  He worked for a
+> [Margareta Gosebruch von Liechtenstern](https://de.wikipedia.org/wiki/Margareta_Morgenstern)
+> on 7 March 1910.  He worked for a
 > while as a journalist in Berlin, but spent much of his life traveling
 > through Germany, Switzerland, and Italy, primarily in a vain attempt
 > to recover his health.  His travels, though they failed to restore him
@@ -95,11 +96,61 @@ nicht sein kann, was nicht sein darf.
 
 _(ebda.)_
 
+> Zum 100. Todestag des Dichters im März 2014 eröffnete das Christian Morgenstern
+> Literatur-Museum auf dem sogenannten [Galgenberg](https://de.wikipedia.org/wiki/Werder_(Havel)#Museen)
+> in Werder (Havel) bei Potsdam, wo die Galgenlieder entstanden sein sollen.
+
+> Was ihre „Bürokratie-Kritik“ anbelangt, so [Fromm](https://de.wikipedia.org/wiki/Waldemar_Fromm),
+> seien [Franz Kafka](https://de.wikipedia.org/wiki/Franz_Kafka)
+> und Morgenstern Brüder im Geiste: „Morgenstern baut bereits vor-kafkaeske Welten,
+> um die Absurdität eines verwalteten Lebens zu zeigen.“
+>
+> Ein Beispiel:
+
+_(ebda.)_
+
+#### Die Behörde
+
+```
+Korf erhält vom Polizeibüro
+ein geharnischt Formular,
+wer er sei und wie und wo.
+
+Welchen Orts er bis anheute war,
+welchen Stands und überhaupt,
+wo geboren, Tag und Jahr.
+
+Ob ihm überhaupt erlaubt,
+hier zu leben und zu welchem Zweck,
+wieviel Geld er hat und was er glaubt.
+
+Umgekehrten Falls man ihn vom Fleck
+in Arrest verführen würde, und
+drunter steht: Borowsky, Heck.
+
+Korf erwidert darauf kurz und rund:
+„Einer hohen Direktion
+stellt sich, laut persönlichem Befund,
+
+untig angefertigte Person
+als nichtexistent im Eigen-Sinn
+bürgerlicher Konvention
+
+vor und aus und zeichnet, wennschonhin
+mitbedauernd nebigen Betreff,
+Korf. (An die Bezirksbehörde in –.)“
+
+Staunend liest’s der anbetroffne Chef.
+```
+
+_(Galgenlieder)_
+
 Im Folgenden sei eine lose Folge und nur kleine persönliche Auswahl aus dem nachstehenden
 Werk Morgensterns nur ganz gelegentlich zitiert:
 
 _Alle Galgenlieder (= Galgenlieder, Palmström, Palma Kunkel und Gingganz)_.  Durch 14 Gedichte
-aus dem Nachlass erweitert und hrsg. von Margareta Morgenstern.  Bruno Cassirer, Berlin 1932.
+aus dem Nachlass erweitert und hrsg. von [Margareta Morgenstern](https://de.wikipedia.org/wiki/Margareta_Morgenstern).
+Bruno Cassirer, Berlin 1932.
 
 #### Schicksal
 

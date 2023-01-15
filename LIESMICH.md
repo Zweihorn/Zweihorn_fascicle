@@ -3,9 +3,21 @@ LIESMICH.md
 
 # Gesammeltes
 
+## Motto
+
+```
+Laß die Moleküle rasen,
+was sie auch zusammenknobeln!
+Laß das Tüfteln, laß das Hobeln,
+heilig halte die Ekstasen!
+```
+
+_aus: Galgenlieder, von Christan Morgenstern__
+
 ## Bunte Blätter
 
-Meine _bunten Blätter_ finden Sie unter [Datei: Colourful-Leaves.md](colourful-leaves.md)
+Meine klitzekleine Literatursammlung _Bunte Blätter_ finden Sie unter
+[Datei: Colourful-Leaves.md](colourful-leaves.md)
 
 # Bearbeiter- und Urheberrechtshinweis
 
