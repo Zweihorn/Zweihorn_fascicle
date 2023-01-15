@@ -1,5 +1,5 @@
-Colourful Leaves
-================
+ColourfulLeaves.md
+==================
 
 # Gesammeltes
 
@@ -33,7 +33,7 @@ Ein wunderschöner Querbezug ist es trotzdem, obwohl ich selbst leider nie das K
 
 ## Colourful Leaves
 
-My _fascicle of German texts_ below.  Please note I use the british denomination "colourful" intentionally.
+My _fascicle of German texts_ below.  Please note I make use of the British denomination "colourful" intentionally.
 
 ## Bearbeiter und Lizenzgeber mit Urheberrechtshinweis
 
@@ -59,6 +59,10 @@ HINWEIS: Der englisch-sprachige Lizensierungstext in [Datei: MAINTAINER.md](MAIN
 
 ### Christian Morgenstern (EN)
 
+Find below only some of the German lyrics and funny texts taken from:
+
+_Songs from the Gallows: Galgenlieder._ Translated by Walter Arndt. Yale University Press, New Haven 1993.
+
 > **Christian Otto Josef Wolfgang Morgenstern** (6 May 1871 – 31 March
 > 1914) was a German author and poet from Munich.  Morgenstern married
 > Margareta Gosebruch von Liechtenstern on 7 March 1910.  He worked for a
@@ -68,14 +72,13 @@ HINWEIS: Der englisch-sprachige Lizensierungstext in [Datei: MAINTAINER.md](MAIN
 > to health, allowed him to meet many of the foremost literary and
 > philosophical figures of his time in central Europe.
 
-_Songs from the Gallows: Galgenlieder._ Translated by Walter Arndt. Yale University Press, New Haven 1993.
-
 <https://en.wikipedia.org/wiki/Christian_Morgenstern>
 
 ### Galgenlieder, Palmström, Palma Kunkel, Der Gingganz
 
-**Christian Morgenstern** lebte von 1871 bis 1914 und hat dabei (nur unter anderem auch) ganz wunderbare lyrische Grotesken
-verfasst, also zahlreiche schräge oder lustige Gedichte hinterlassen.
+**Christian Morgenstern** lebte in den nur 43 Jahren von 1871 bis 1914 und hat dabei
+(nur unter anderem auch) ganz wunderbare lyrische Grotesken verfasst, also zahlreiche
+schräge oder lustige Gedichte hinterlassen.
 
 > Zum geflügelten deutschen Wort wurde der Schluß des Gedichts _Die unmögliche Tatsache_ (aus _Palmström_):
 ```
@@ -95,8 +98,8 @@ _(ebda.)_
 Im Folgenden sei eine lose Folge und nur kleine persönliche Auswahl aus dem nachstehenden
 Werk Morgensterns nur ganz gelegentlich zitiert:
 
-_Alle Galgenlieder (= Galgenlieder, Palmström, Palma Kunkel und Gingganz)_. Durch 14 Gedichte
-aus dem Nachlass erweitert und hrsg. von Margareta Morgenstern. Bruno Cassirer, Berlin 1932.
+_Alle Galgenlieder (= Galgenlieder, Palmström, Palma Kunkel und Gingganz)_.  Durch 14 Gedichte
+aus dem Nachlass erweitert und hrsg. von Margareta Morgenstern.  Bruno Cassirer, Berlin 1932.
 
 #### Schicksal
 
@@ -109,6 +112,25 @@ ward links und hinten schwarz gebrannt.
 
 Sein Leben grübelt er seitdem:
 warum ihm dies geschah, von wem?
+```
+
+### Der Rock
+
+```
+Der Rock, am Tage angehabt,
+er ruht zur Nacht sich schweigend aus;
+durch einen hohlen Ärmel trabt
+die Maus.
+
+Durch einen hohlen Ärmel trabt
+gespenstisch auf und ab die Maus...
+Der Rock, am Tage angehabt,
+er ruht zur Nacht sich schweigend aus.
+
+Er ruht, am Tage angehabt,
+im Schoß der Nacht sich schweigend aus,
+er ruht, von seiner Maus durchtrabt,
+sich aus.
 ```
 
 ### _(wird fortgesetzt)_
