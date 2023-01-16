@@ -12,7 +12,7 @@ Laß das Tüfteln, laß das Hobeln,
 heilig halte die Ekstasen!
 ```
 
-_aus: Galgenlieder, von Christan Morgenstern_
+_aus: Galgenlieder, von Christian Morgenstern_
 
 ## Bunte Blätter
 

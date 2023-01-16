@@ -13,10 +13,10 @@ Die [Datei: LIESMICH.md](LIESMICH.md) trägt das Motto und dient als deutsch-spr
 
 "**Quot capita, tot sensus**" – There are as many opinions as there are heads – **Terence** (around 166–160 BC)
 
-> **Publius Terentius Afer** (/təˈrɛnʃiəs, -ʃəs/; c. 195/185 – c. 159?
-> BC), better known in English as **Terence** (/ˈtɛrəns/), was a Roman
-> African playwright during the Roman Republic. His comedies were
-> performed for the first time around 166–160 BC.
+> **Publius Terentius Afer** (/təˈrɛnʃiəs, -ʃəs/; c. 195/185 – c. 159? BC),
+> better known in English as **Terence** (/ˈtɛrəns/), was a Roman African
+> playwright during the Roman Republic. His comedies were performed
+> for the first time around 166–160 BC.
 
 * More information at: <https://en.wikipedia.org/wiki/Terence>
 
@@ -74,9 +74,7 @@ An old private FOSS developer and an innocently funny idea of furiously free fuz
 There may be good reasons to use [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD).
 However, there are [good reasons](https://en.wikipedia.org/wiki/Linux) to use
 [Linux](https://www.linux.com/) (including but not limited to being a
-[EU citizen](https://ec.europa.eu/info/aid-development-cooperation-fundamental-rights/your-rights-eu/eu-charter-fundamental-rights_en)).
-
-:wink: :earth_africa:
+[EU citizen](https://ec.europa.eu/info/aid-development-cooperation-fundamental-rights/your-rights-eu/eu-charter-fundamental-rights_en)). :wink: :earth_africa:
 
 Unfortunately, one [cannot ignore tribal aspects](https://en.wikipedia.org/wiki/Communication)
 and [any community effort](https://www.debian.org/intro/free) can degrade into
