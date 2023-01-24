@@ -4,7 +4,7 @@ mynotes_mp_minetest.md
 # The Minetest Port Development
 ## Default Intro
 
-This text is a **DRAFT** and _work in progress (**WIP**)_.  Stay tuned for some news ...
+This text is a **DRAFT** and _work in progress (**WIP**)_.
 
 TBD - Intro?
 
@@ -17,31 +17,23 @@ More information at [File: MAINTAINER.md](MAINTAINER.md) in this repository.
 The cover page and introduction found at [File: README.md](README.md).
 
 
-# My Minetest Port Dev Notes
+# My Minetest Port Developer Notes
 
-## Some MP MT Efforts
-### Pull Request(s)
+## First Maintainer Project
+### Revision 1
+#### Description
 
-PR [#17258](https://github.com/macports/macports-ports/pull/17258)
+#### Pull Request(s)
 
-This PR and amend integrate well with the new 'irrlichtmt-mt56' port family.
+PR [#17077](https://github.com/macports/macports-ports/pull/17077)
 
-Ref [#17255](https://github.com/macports/macports-ports/pull/17255)
-
-### The ongoing trial of a 'minetest' replace
-
-Some list of some notes:
-- [2023-01-07](mynotes_mp_by-date/mynotes_mp_2023-01-07.md)
-- [2023-01-08](mynotes_mp_by-date/mynotes_mp_2023-01-08a.md)
-- [2023-01-09](mynotes_mp_by-date/mynotes_mp_2023-01-09a.md)
-- [2023-01-11](mynotes_mp_by-date/mynotes_mp_2023-01-11a.md)
-- _tbc_
+### New Maintainer
 
 
-## Old News
+## Continued Efforts
+### Revision 2
+#### Description
 
-Obsolete PRs were:
-- PR [#17153](https://github.com/macports/macports-ports/pull/17153)
-- PR [#17161](https://github.com/macports/macports-ports/pull/17161)
-- PR [#17241](https://github.com/macports/macports-ports/pull/17241)
+#### Pull Request(s)
 
+PR [#17450](https://github.com/macports/macports-ports/pull/17450)

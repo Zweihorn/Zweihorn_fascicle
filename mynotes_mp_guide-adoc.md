@@ -4,7 +4,7 @@ mynotes_mp_guide-adoc.md
 # The MacPorts Guide QA & Documentary
 ## Default Intro
 
-This text is a **DRAFT** and _work in progress (**WIP**)_.  Stay tuned
+This text is a **DRAFT** and _work in progress (**WIP**)_.
 for some news ...
 
 TBD - Intro?
@@ -43,6 +43,4 @@ This PR might not be fully compatible to but certainly is related to
 
 ### The ongoing trial to improve the MacPorts Guide Documentary
 
-Some list of some notes:
-- [2023-01-08](mynotes_mp_by-date/mynotes_mp_2023-01-08c.md)
 - _tbc_

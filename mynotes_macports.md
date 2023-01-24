@@ -1,7 +1,7 @@
 mynotes_macports.md
 ===================
 
-# My [MacPorts](https://www.macports.org/) silly [FOSS](https://www.debian.org/intro/free) commits
+# My [MacPorts](https://www.macports.org/) funny [FOSS](https://www.debian.org/intro/free) commits
 
 ## My Distribution
 
@@ -17,7 +17,10 @@ developer and an [imbecile](https://youtu.be/Lzu7f2q2hW4) made
 
 My maintained ports:
 - Minetest Port Development - [File: MyNotes_MP_Minetest.md](mynotes_mp_minetest.md) - maintainer
-- IrrLichtMT Port Development - [File: MyNotes_MP_IrrLichtMT.md](mynotes_mp_irrlichtmt.md) - co-maintainer
+- _tbc?_
+
+My open maintainer contribution:
+- IrrLichtMT Port Development - [File: MyNotes_MP_IrrLichtMT.md](mynotes_mp_irrlichtmt.md)
 - _tbc?_
 
 My documentary effort:

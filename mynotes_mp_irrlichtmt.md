@@ -4,7 +4,7 @@ mynotes_mp_irrlichtmt.md
 # The IrrLichtMT Port Development
 ## Default Intro
 
-This text is a **DRAFT** and _work in progress (**WIP**)_.  Stay tuned for some news ...
+This text is a **DRAFT** and _work in progress (**WIP**)_.
 
 TBD - Intro?
 
@@ -29,11 +29,3 @@ This PR and amend integrate well with the new 'minetest56' port family.
 
 Ref [#17258](https://github.com/macports/macports-ports/pull/17258)
 
-
-### The ongoing trial of a 'minetest' replace
-
-Some list of some notes:
-- [2023-01-08](mynotes_mp_by-date/mynotes_mp_2023-01-08b.md)
-- [2023-01-09](mynotes_mp_by-date/mynotes_mp_2023-01-09b.md)
-- [2023-01-10](mynotes_mp_by-date/mynotes_mp_2023-01-10b.md)
-- _tbc_
