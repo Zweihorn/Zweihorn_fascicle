@@ -184,4 +184,23 @@ er ruht, von seiner Maus durchtrabt,
 sich aus.
 ```
 
+#### Das Nasobëm
+
+```
+Auf seinen Nasen schreitet
+einher das Nasobëm,
+von seinem Kind begleitet.
+Es steht noch nicht im Brehm.
+
+Es steht noch nicht im Meyer.
+Und auch im Brockhaus nicht.
+Es trat aus meiner Leyer,
+zum ersten Mal ans Licht.
+
+Auf seinen Nasen schreitet
+(wie schon gesagt) seitdem,
+von seinem Kind begleitet,
+einher das Nasobëm.
+```
+
 ### _(wird fortgesetzt)_
