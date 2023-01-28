@@ -7,7 +7,7 @@ from Latin _fasciculus_, diminutive of _fascis_ ‘**bundle**’: a separately p
 
 ## Motto und Gesammeltes (DE)
 
-Die [Datei: LIESMICH.md](LIESMICH.md) trägt das Motto und dient als deutsch-sprachige Einführung für Werk und Archiv.
+Die [Datei: BEARBEITER.md](BEARBEITER.md) trägt das Motto und dient als deutsch-sprachige Einführung für Werk und Archiv.
 
 ## Profile (EN)
 

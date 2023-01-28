@@ -22,7 +22,7 @@ HINWEIS: Dieses Dokument ist ein ENTWURF d.h. "WIP - work in progress / in Arbei
 
 Dieses zweisprachige Inhaltsverzeichnis zu diesem Archiv ist im MarkDown-Format gehalten.
 
-Die Datei [LIESMICH.md](LIESMICH.md)
+Die Datei [BEARBEITER.md](BEARBEITER.md)
 
 
 ## Content List / Inhaltsverzeichnis
@@ -45,16 +45,16 @@ steht unter der [Datei README.md](README.md).
 
 NOTE: English cover page and general introduction at [File: README.md](README.md).
 
-[Datei: LIESMICH.md](LIESMICH.md)
+[Datei: BEARBEITER.md](BEARBEITER.md)
 
 
 ### README / LIESMICH
 
 Provides the cover page and the introduction to the Repository in English.
 
-NOTE: A German text and license text at [File: LIESMICH.md](LIESMICH.md).
+NOTE: A German text and license text at [File: BEARBEITER.md](BEARBEITER.md).
 
-HINWEIS: Ein deutsch-sprachiger Text steht unter [Datei: LIESMICH.md](LIESMICH.md).
+HINWEIS: Ein deutsch-sprachiger Text steht unter [Datei: BEARBEITER.md](BEARBEITER.md).
 
 [File: README.md](README.md)
 

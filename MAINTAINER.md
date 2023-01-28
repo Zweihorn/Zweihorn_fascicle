@@ -5,9 +5,9 @@ MAINTAINER.md
 
 This file provides introductory information to software and repository.
 
-HINWEIS: Der deutsch-sprachige Text in [Datei: LIESMICH.md](LIESMICH.md).
+HINWEIS: Der deutsch-sprachige Text in [Datei: BEARBEITER.md](BEARBEITER.md).
 
-NOTE: Information in German language at [File: LIESMICH.md](LIESMICH.md).
+NOTE: Information in German language at [File: BEARBEITER.md](BEARBEITER.md).
 
 
 ## Open Source Licence Information by the Maintainer of the Software
