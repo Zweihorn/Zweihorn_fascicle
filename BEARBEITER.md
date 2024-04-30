@@ -32,7 +32,7 @@ HINWEIS: Der englisch-sprachige Text in [Datei: MAINTAINER.md](MAINTAINER.md).
 
 ### Bearbeiter und Lizenzgeber mit Urheberrechtshinweis
 
-© @Zweihorn - 2022, 2023 - Deutschland (DE), Europäische Union (EU)
+© @Zweihorn - 2022-2024 - Deutschland (DE), Europäische Union (EU)
 
         Lizenziert unter der EUPL
 
