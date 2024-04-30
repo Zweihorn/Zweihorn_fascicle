@@ -14,7 +14,7 @@ NOTE: Information in German language at [File: BEARBEITER.md](BEARBEITER.md).
 
 ### Maintainer & Licensor with Copyright Notice
 
-© @Zweihorn - 2022, 2023 - Germany (DE), European Union (EU)
+© @Zweihorn - 2022-2024 - Germany (DE), European Union (EU)
 
         Licensed under the EUPL
 
