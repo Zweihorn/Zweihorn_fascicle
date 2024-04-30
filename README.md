@@ -97,18 +97,18 @@ Welcome to the [CET](https://en.wikipedia.org/wiki/Central_European_Time) zone. 
 
 [Berlin, Capital of Germany,](https://www.berlin.de/en/) today has good neighbours as [Paris](https://www.paris.fr/), [Amsterdam](https://www.amsterdam.nl/en/) and [Warsaw](http://www.um.warszawa.pl/en) in the [European Union](https://ec.europa.eu/growth/single-market_en). :de: :eu:
 
-While in Berlin stop at the [Berghain](https://en.wikipedia.org/wiki/Berghain), the [Memorial to the Murdered Jews of Europe](https://www.berlin.de/en/attractions-and-sights/3560249-3104052-memorial-to-the-murdered-jews-of-europe.en.html) and the [Mauerpark](https://en.wikipedia.org/wiki/Mauerpark). Only after the more educated [fan of space history](https://www.nasa.gov/centers/marshall/history/vonbraun/bio.html) may make a day's visit to the southern coast of the [Baltic sea](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/print_gm.html) and touch [some historic ground of rocket science and far more sad ambitions of the past](https://museum-peenemuende.de/?lang=en).
+While in Berlin stop at the [Berghain](https://en.wikipedia.org/wiki/Berghain), the [Memorial to the Murdered Jews of Europe](https://www.berlin.de/en/attractions-and-sights/3560249-3104052-memorial-to-the-murdered-jews-of-europe.en.html), the Berlin Wall Documentation Centre known as [Dokumentationszentrum Berliner Mauer](https://www.berlin.de/en/museums/3109351-3104050-gedenkstaette-berliner-mauer.en.html) and the [Mauerpark](https://en.wikipedia.org/wiki/Mauerpark). Only after the more educated [fan of space history](https://www.nasa.gov/centers/marshall/history/vonbraun/bio.html) may make a day's visit to the southern coast of the [Baltic sea](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/print_gm.html) and touch [some historic ground of rocket science and far more sad ambitions of the past](https://museum-peenemuende.de/?lang=en).
 :rocket: :thinking:
 
 Further [POI in Berlin](https://www.berlin.de/en/tourism/):
 
 * [Aquarium Berlin](https://www.aquarium-berlin.de/en)
 
-* [The world's first computer was built in Berlin](https://sdtb.de/museum-of-technology/exhibitions/1256/) by [Konrad Zuse](https://en.wikipedia.org/wiki/Konrad_Zuse)
+* [The world's first computer was built in Berlin](https://technikmuseum.berlin/en/exhibitions/permanent-exhibition/computers/) by [Konrad Zuse](https://en.wikipedia.org/wiki/Konrad_Zuse)
 
-* [Johannisthal Air Field](https://en.wikipedia.org/wiki/Johannisthal_Air_Field) and [Aerodynamic Park](https://en.wikipedia.org/wiki/Aerodynamic_Park) in [Berlin-Adlershof](https://www.berlin.de/en/business-and-economy/economic-center/5613189-4011028-science-and-innovation.en.html)
+* [Johannisthal Air Field](https://en.wikipedia.org/wiki/Johannisthal_Air_Field) and [Aerodynamic Park](https://en.wikipedia.org/wiki/Aerodynamic_Park) in [Berlin-Adlershof](https://www.berlin.de/sen/web/en/economics-and-technology/centres-of-technology-zukunftsorte-smart-city/zukunftsorte/adlershof/artikel.597193.en.php)
 
-* [German Aerospace Center (DLR) Berlin](https://www.dlr.de/content/en/articles/sites/berlin/about-berlin.html)
+* [German Aerospace Center (DLR) Berlin](https://www.dlr.de/en/dlr/about-us/history-of-dlr/the-history-of-the-dlr-site-in-berlin-adlershof)
 
 * [Archenhold Observatory](https://en.wikipedia.org/wiki/Archenhold_Observatory) i.e.  [Archenhold Sternwarte](https://www.planetarium.berlin/archenhold-sternwarte)
 
@@ -119,11 +119,13 @@ and e.g., the [Berlin Zoo](https://www.zoo-berlin.de/en).
 
 Please note:
 
+* _Wings of Desire_ (i.e. German: [Der Himmel über Berlin](https://en.wikipedia.org/wiki/Wings_of_Desire)) is a 1987 romantic fantasy film directed by Wim Wenders.
+
 * [**Berlin** is both the Capital and largest city](https://de.wikipedia.org/wiki/Berlin) of Germany by both area and population.
 
 * _Little Berlin_ i.e. [Berlin (Seedorf)](https://en.wikipedia.org/wiki/Berlin_(Seedorf)) is a civil parish in [Sleswick-Holsatia](https://en.wikipedia.org/wiki/Schleswig-Holstein).
 
-* The author of this Work and document intentionally tends to spell words of the [EN locale](https://en.wikipedia.org/wiki/Locale_(computer_software)) like 'instalment', 'colour', 'tyre', 'optimisation' etc. in the  way of [**en-GB British English**](https://en.wikipedia.org/wiki/British_English) specifically.
+* I as the author of this Work and document intentionally tend to spell words of the [EN locale](https://en.wikipedia.org/wiki/Locale_(computer_software)) like 'instalment', 'colour', 'tyre', 'optimisation' etc. in the  way of [**en-GB British English**](https://en.wikipedia.org/wiki/British_English) specifically.
 
 * The word **"different"** and its usage in _construction variants_ as "different _from_", "different _than_", and "different _to_": One might wonder if there are any distinctions between these three constructions, and is one more correct than the others? Evidently, in general global practice, the construction _"different **from**"_ is most common, both in British and US English, and the **most accepted** common structure.
 
