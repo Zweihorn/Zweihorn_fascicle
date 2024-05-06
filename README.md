@@ -1,15 +1,26 @@
 README.md
 =========
 
-# fascicle
+## My Preface
+
+### fascicle
 
 from Latin _fasciculus_, diminutive of _fascis_ ‘**bundle**’: a separately published instalment of a book or other work
 
-## Motto und Gesammeltes (DE)
+### Mein Motto (DE)
 
-Die [Datei: BEARBEITER.md](BEARBEITER.md) trägt das Motto und dient als deutsch-sprachige Einführung für Werk und Archiv.
+Das von mir nur entlehnte Motto soll als deutsch-sprachige Einführung für Werk und Archiv dienen.
 
-## Profile (EN)
+```
+Laß die Moleküle rasen,
+was sie auch zusammenknobeln!
+Laß das Tüfteln, laß das Hobeln,
+heilig halte die Ekstasen!
+```
+
+_aus: Galgenlieder, von [Christian Morgenstern](colourful-leaves.md#christian-morgenstern)_
+
+### The Profile (EN)
 
 "**Quot capita, tot sensus**" – There are as many opinions as there are heads – **Terence** (around 166–160 BC)
 
@@ -20,11 +31,16 @@ Die [Datei: BEARBEITER.md](BEARBEITER.md) trägt das Motto und dient als deutsch
 
 * More information at: <https://en.wikipedia.org/wiki/Terence>
 
-# Cover Page
+###  Bunte Blätter / Colourful Leaves
 
-## Commitment
+Meine klitzekleine Literatursammlung _Bunte Blätter_ finden Sie unter der
+[Datei: Colourful-Leaves.md](colourful-leaves.md)
 
-### Open Source Endeavour
+My _fascicle of German texts_ under [File: Colourful-Leaves.md](colourful-leaves.md). Please note I make use of the British English denomination "colourful" intentionally.
+
+## Introductions & Commitments
+
+### My Commitment & Open Source Endeavour
 
 NOTE: I may be slow to respond. My sincere apologies as I have my life outside GitHub.
 
@@ -58,18 +74,7 @@ _(2023-01-04)_
 The 'Disclaimer of Warranty' according to Article 7 EUPL is an essential part of the
 Licence and a condition for the grant of any rights to the Work.
 
-#### Maintainer License Information
-
-More information at [File: MAINTAINER.md](MAINTAINER.md) in this repository.
-
-### FOSS commits
-
-Welcome.  Have a second reading and a first listening too at
-[File: MyNotes_MacPorts.md](mynotes_macports.md).
-
-An old private FOSS developer and an innocently funny idea of furiously free fuzz.
-
-### Technical
+### Technical Introduction
 
 There may be good reasons to use [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD).
 However, there are [good reasons](https://en.wikipedia.org/wiki/Linux) to use
@@ -85,13 +90,13 @@ matter most and you are [free to choose](https://en.wikipedia.org/wiki/Free_and_
 
 :innocent: :restroom:
 
-### Personal
+### Personal Introduction
 
 I am a proud father of five (formerly six) beautiful children. I am a proud citizen of the European Union (EU).
 
-Born in Western Germany during the times of [Cold War](https://en.wikipedia.org/wiki/Cold_War), nowadays happily living in a reunified [Germany](https://en.wikipedia.org/wiki/Germany) in the EU. I enjoy my life in private.
+Born in Western Germany during the times of [Cold War](https://en.wikipedia.org/wiki/Cold_War), nowadays safely and quite happily living in a reunified [Germany](https://en.wikipedia.org/wiki/Germany) in the EU. I enjoy my life in private.
 
-### Societal
+### Societal Introduction
 
 Welcome to the [CET](https://en.wikipedia.org/wiki/Central_European_Time) zone. In [Old Europe](https://en.wikipedia.org/wiki/Old_Europe_and_New_Europe) we have a tradition of [Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment) like [Critique of Pure Reason](https://en.wikipedia.org/wiki/Immanuel_Kant).
 
