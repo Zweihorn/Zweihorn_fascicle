@@ -1,9 +1,9 @@
 license.md
 ==========
 
-# License
+## License
 
-More applicable information at [File: MAINTAINER.md](MAINTAINER.md)
+More applicable information at [File: MAINTAINER.md](https://github.com/Zweihorn/Zweihorn/blob/main/MAINTAINER.md)
 
 
 ## Open Source Licence Information
