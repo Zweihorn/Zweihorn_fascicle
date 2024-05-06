@@ -1,9 +1,9 @@
 Colourful-Leaves.md
 ===================
 
-# Gesammeltes
+## Preface 
 
-## Bunte Blätter (1)
+### Bunte Blätter (1)
 
 > Robert Schumann
 >
@@ -11,7 +11,7 @@ Colourful-Leaves.md
 
 <https://de.wikipedia.org/wiki/Robert_Schumann#Klaviermusik>
 
-## Bunte Blätter (2)
+### Bunte Blätter (2)
 
 Meine Sammlung _Bunte Blätter_ finden Sie dagegen hier nachstehend als mehrheitlich textliches Sammelsurium.
 
@@ -20,7 +20,7 @@ in irgendeiner Weise zu messen suchen.  Das wäre wohl reichlich vermessen und i
 
 Ein wunderschöner Querbezug ist es trotzdem, obwohl ich selbst leider nie das Klavierspielen lernen durfte.
 
-## Colorful Leaves
+### Colorful Leaves (1)
 
 > **Bunte Blätter** (English: Colorful Leaves), Op. 99, is a collection of
 > piano pieces by Robert Schumann assembled from earlier unpublished
@@ -31,19 +31,9 @@ Ein wunderschöner Querbezug ist es trotzdem, obwohl ich selbst leider nie das K
 
 <https://en.wikipedia.org/wiki/Bunte_Bl%C3%A4tter>
 
-## Colourful Leaves
+### Colourful Leaves (2)
 
 My _fascicle of German texts_ below.  Please note I make use of the British denomination "colourful" intentionally.
-
-## Bearbeiter und Lizenzgeber mit Urheberrechtshinweis
-
-Die [Datei: LIESMICH.md](LIESMICH.md) dient als deutsch-sprachige Einführung für Werk und Archiv.
-
-NOTE: More license information in English at [File: MAINTAINER.md](MAINTAINER.md).
-
-HINWEIS: Der englisch-sprachige Lizensierungstext in [Datei: MAINTAINER.md](MAINTAINER.md).
-
-# Bunte Blätter
 
 ## Christian Morgenstern
 
