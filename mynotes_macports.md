@@ -1,40 +1,7 @@
 mynotes_macports.md
 ===================
 
-# My [MacPorts](https://www.macports.org/) funny [FOSS](https://www.debian.org/intro/free) commits
-
-## My Distribution
-
-### Maintainer License Information
-
-More information at [File: MAINTAINER.md](MAINTAINER.md) in this repository.
-
-### My Notes on Specific Ports
-
-Notes from a [poor old sod](https://youtu.be/i19d1QnstsA) of a [FOSS](license.md)
-developer and an [imbecile](https://youtu.be/Lzu7f2q2hW4) made
-[Maintainer](https://guide.macports.org/#introduction) of [Port(s)](https://ports.macports.org/).
-
-My maintained ports:
-- Minetest Port Development - [File: MyNotes_MP_Minetest.md](mynotes_mp_minetest.md) - maintainer
-- _tbc?_
-
-My open maintainer contribution:
-- IrrLichtMT Port Development - [File: MyNotes_MP_IrrLichtMT.md](mynotes_mp_irrlichtmt.md)
-- _tbc?_
-
-My documentary effort:
-- MacPorts Guide QA & Documentary - [File: MyNotes_MP_Guide-aDoc.md](mynotes_mp_guide-adoc.md) - _WIP_
-
-### Back to the Top
-
-The cover page and introduction found at [File: README.md](README.md).
-
-
-My Notes on **[MacPorts](https://www.macports.org/)** in General
-================================================================
-
-## Templates and Check Lists
+## My Notes on **[MacPorts](https://www.macports.org/)** in General
 
 ### MacPorts Checklist for PRs at GitHub
 
