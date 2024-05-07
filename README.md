@@ -16,52 +16,6 @@ heilig halte die Ekstasen!
 
 _aus: Galgenlieder, von [Christian Morgenstern](colourful-leaves.md#christian-morgenstern)_
 
-## My Profile (EN)
-
-### Latin (LA)
-
-"**Quot capita, tot sensus**" – There are as many opinions as there are heads – **Terence** (around 166–160 BC)
-
-> **[Publius Terentius Afer](https://en.wikipedia.org/wiki/Terence)** (/təˈrɛnʃiəs, -ʃəs/; c. 195/185 – c. 159? BC),
-> better known in English as **Terence** (/ˈtɛrəns/), was a Roman African
-> playwright during the Roman Republic. His comedies were performed
-> for the first time around 166–160 BC.
-
-_(2024-05-07)_
-
-> **[Publius Terentius Afer](https://de.wikipedia.org/wiki/Terence)**, zumeist einfach Terenz
-> (* zwischen 195 und 184 v. Chr. in Karthago; † 159 oder 158 v. Chr. in Griechenland), war
-> einer der berühmtesten Komödiendichter der römischen Antike. Er war neben Plautus der bedeutendste
-> römische Dichter der Archaik und stand dem aristokratischen Scipionenkreis nahe. Von Terenz sind
-> sechs Komödien erhalten, die zwischen 166 und 160 v. Chr. entstanden und aufgeführt wurden. 
-
-_(2024-02-17)_
-
-### 'Carpe diem' is also Latin (LA)
-
-> **[Carpe diem](https://de.wikipedia.org/wiki/Carpe_diem)** (wörtlich: „Pflücke den Tag“) ist eine Sentenz
-> aus der um 23 v. Chr. entstandenen Ode „An Leukonoë“ des römischen Dichters Horaz (* 65 v. Chr.; † 8 v. Chr.).
-> Sie fordert in der Schlusszeile als Fazit des Gedichts dazu auf, die knappe Lebenszeit heute zu genießen und
-> das nicht auf den nächsten Tag zu verschieben. Im Deutschen wurde die Übersetzung „Nutze den Tag“
-> zum geflügelten Wort.
-
-_(2023-08-14)_
-
-> **[Carpe diem](https://en.wikipedia.org/wiki/Carpe_diem)** is a Latin aphorism, usually translated "seize the day",
-> taken from book 1 of the Roman poet Horace's work Odes (23 BC).
-
-_(2024-05-05)_
-
-### The Latin adverb 'sic' (LA)
-
-> **[sic](https://de.wikipedia.org/wiki/Sic)** (Aussprache [siːk]) ist ein redaktioneller Hinweis in Zitaten, Druckvorlagen und anderen Textstellen. Es entstammt dem lateinischen _sīc_ und bedeutet „so“ bzw. „wirklich so“ (vollständig: _sīc scriptum erat_: „so wurde es geschrieben“).
-
-_(2023-02-02)_
-
-> The Latin adverb **[sic](https://de.wikipedia.org/wiki/Sic)** (/sɪk/; lit. 'so' or 'thus' or 'in this manner') inserted after a quoted word or passage indicates that the quoted matter has been transcribed or translated exactly as found in the source text, complete with any erroneous, archaic, or otherwise nonstandard spelling, punctuation, or grammar. It also applies to any surprising assertion, faulty reasoning, or other matter that might be interpreted as an error of transcription.
-
-_(2024-05-04)_
-
 ## My Introduction
 
 ### Technical Introduction
@@ -116,6 +70,7 @@ Meine klitzekleine Literatursammlung _Bunte Blätter_ finden Sie unter der
 
 My _fascicle of German texts_ filed under [File: Colourful-Leaves.md](colourful-leaves.md).  Please note my intentiomal use of the British English "colourful" denomination. 🇬🇧
 
+
 ## Addendum
 
 Please note:
@@ -149,6 +104,54 @@ NOTE: **Education** certainly matters to both civilisation and democracy. There 
 (2019-11-01 cited from English text of [Wikipedia](https://en.wikipedia.org/wiki/Eratosthenes))
 
 - - -
+
+
+## My Profile (EN)
+
+### Latin (LA)
+
+"**Quot capita, tot sensus**" – There are as many opinions as there are heads – **Terence** (around 166–160 BC)
+
+> **[Publius Terentius Afer](https://en.wikipedia.org/wiki/Terence)** (/təˈrɛnʃiəs, -ʃəs/; c. 195/185 – c. 159? BC),
+> better known in English as **Terence** (/ˈtɛrəns/), was a Roman African
+> playwright during the Roman Republic. His comedies were performed
+> for the first time around 166–160 BC.
+
+_(2024-05-07)_
+
+> **[Publius Terentius Afer](https://de.wikipedia.org/wiki/Terence)**, zumeist einfach Terenz
+> (* zwischen 195 und 184 v. Chr. in Karthago; † 159 oder 158 v. Chr. in Griechenland), war
+> einer der berühmtesten Komödiendichter der römischen Antike. Er war neben Plautus der bedeutendste
+> römische Dichter der Archaik und stand dem aristokratischen Scipionenkreis nahe. Von Terenz sind
+> sechs Komödien erhalten, die zwischen 166 und 160 v. Chr. entstanden und aufgeführt wurden. 
+
+_(2024-02-17)_
+
+### 'Carpe diem' is also Latin (LA)
+
+> **[Carpe diem](https://de.wikipedia.org/wiki/Carpe_diem)** (wörtlich: „Pflücke den Tag“) ist eine Sentenz
+> aus der um 23 v. Chr. entstandenen Ode „An Leukonoë“ des römischen Dichters Horaz (* 65 v. Chr.; † 8 v. Chr.).
+> Sie fordert in der Schlusszeile als Fazit des Gedichts dazu auf, die knappe Lebenszeit heute zu genießen und
+> das nicht auf den nächsten Tag zu verschieben. Im Deutschen wurde die Übersetzung „Nutze den Tag“
+> zum geflügelten Wort.
+
+_(2023-08-14)_
+
+> **[Carpe diem](https://en.wikipedia.org/wiki/Carpe_diem)** is a Latin aphorism, usually translated "seize the day",
+> taken from book 1 of the Roman poet Horace's work Odes (23 BC).
+
+_(2024-05-05)_
+
+### The Latin adverb 'sic' (LA)
+
+> **[sic](https://de.wikipedia.org/wiki/Sic)** (Aussprache [siːk]) ist ein redaktioneller Hinweis in Zitaten, Druckvorlagen und anderen Textstellen. Es entstammt dem lateinischen _sīc_ und bedeutet „so“ bzw. „wirklich so“ (vollständig: _sīc scriptum erat_: „so wurde es geschrieben“).
+
+_(2023-02-02)_
+
+> The Latin adverb **[sic](https://de.wikipedia.org/wiki/Sic)** (/sɪk/; lit. 'so' or 'thus' or 'in this manner') inserted after a quoted word or passage indicates that the quoted matter has been transcribed or translated exactly as found in the source text, complete with any erroneous, archaic, or otherwise nonstandard spelling, punctuation, or grammar. It also applies to any surprising assertion, faulty reasoning, or other matter that might be interpreted as an error of transcription.
+
+_(2024-05-04)_
+
 
 ## DISCLAIMER
 ⚖️
