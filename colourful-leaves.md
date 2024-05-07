@@ -1,7 +1,9 @@
-Colourful-Leaves.md
-===================
+Colourful-Leaves
+================
 
-## Preface 
+## Preface
+
+My _fascicle of German authors & texts_ below in this text after the Preface.
 
 ### Bunte Blätter (1)
 
@@ -20,7 +22,7 @@ in irgendeiner Weise zu messen suchen.  Das wäre wohl reichlich vermessen und i
 
 Ein wunderschöner Querbezug ist es trotzdem, obwohl ich selbst leider nie das Klavierspielen lernen durfte.
 
-### Colorful Leaves (1)
+### (1) Colorful Leaves
 
 > **Bunte Blätter** (English: Colorful Leaves), Op. 99, is a collection of
 > piano pieces by Robert Schumann assembled from earlier unpublished
@@ -31,9 +33,9 @@ Ein wunderschöner Querbezug ist es trotzdem, obwohl ich selbst leider nie das K
 
 <https://en.wikipedia.org/wiki/Bunte_Bl%C3%A4tter>
 
-### Colourful Leaves (2)
+### (2) Colourful Leaves
 
-My _fascicle of German texts_ below.  Please note I make use of the British denomination "colourful" intentionally.
+Please note I make use of the British denomination "colourful" intentionally.  You find my _fascicle of German authors & texts_ just below.  
 
 ## Christian Morgenstern
 
@@ -65,7 +67,7 @@ _Songs from the Gallows: Galgenlieder._ Translated by Walter Arndt. Yale Univers
 
 <https://en.wikipedia.org/wiki/Christian_Morgenstern>
 
-### Galgenlieder, Palmström, Palma Kunkel, Der Gingganz
+### Fascicle of Texts & Lyrics from Galgenlieder, Palmström, Palma Kunkel, Der Gingganz
 
 **Christian Morgenstern** lebte in den nur 43 Jahren von 1871 bis 1914 und hat dabei
 (nur unter anderem auch) ganz wunderbare lyrische Grotesken verfasst, also zahlreiche
@@ -81,8 +83,8 @@ nicht sein kann, was nicht sein darf.
 > Sein **Nasobēm** inspirierte den Zoologen Gerolf Steiner zur Schöpfung
 > der (fiktiven) Ordnung der _Rhinogradentia_, ein
 > wissenschaftlich-satirischer Scherz, der sich international
-> verbreitete und später seine bekannteste Nachahmung in Loriots
-> _Steinlaus_ fand.
+> verbreitete und später seine bekannteste populärwissenschaftliche 
+> satirische Nachahmung in Loriots _Steinlaus_ fand.
 
 _(ebda.)_
 
@@ -193,4 +195,64 @@ von seinem Kind begleitet,
 einher das Nasobëm.
 ```
 
-### _(wird fortgesetzt)_
+### TBC _(wird fortgesetzt)_
+
+## Heinz Erhardt (1909-1979)
+
+### Heinz Erhardt (DE)
+
+[Heinz Erhardt](https://de.wikipedia.org/wiki/Heinz_Erhardt) gehört auch heute noch zu Deutschlands bekanntesten Komikern.  Er wurde am 20. Februar 1909 in Riga (der heutigen Hauptstadt Lettlands), im damaligen Kaiserreich Russland, geboren.  Nach Ende des Zweiten Weltkriegs und bis zu seinem Tod lebte er mit seiner Familie in Hamburg-Wellingsbüttel.  Begraben liegt er in BI 66, 605-606 auf dem [Ohlsdorfer Friedhof](https://de.wikipedia.org/wiki/Friedhof_Ohlsdorf) in der Freien und Hanse-Stadt Hamburg.
+
+### Heinz Erhardt (EN)
+tbc
+
+<https://en.wikipedia.org/wiki/Heinz_Erhardt>
+
+### Fascicle of Texts & Lyrics
+
+```
+„Gott hat die Welt aus Nichts gemacht“,
+so steht es im Brevier,
+nun kommt mir manchmal der Verdacht,
+er macht sich nichts aus ihr …
+```
+
+```
+Die schlechtesten Bücher sind es nicht,
+an denen Würmer nagen,
+die schlechtesten Nasen sind es nicht,
+die eine Brille tragen.
+Die schlechtesten Menschen sind es nicht,
+die dir die Wahrheit sagen.
+```
+
+```
+Paradox ist, wenn einer sich im Handumdrehen den Fuß bricht.
+```
+
+```
+Wer sich selbst auf den Arm nimmt, erspart anderen die Arbeit.
+```
+### TBC _(wird fortgesetzt)_
+
+## Mark Twain
+
+### Mark Twain (DE)
+
+**[Mark Twain](https://de.wikipedia.org/wiki/Mark_Twain)**, eigentlich _Samuel Langhorne Clemens_ (1835-1910), war ein U.S.-amerikanischer Schriftsteller.  In Deutschland ist er auch heute noch vor allem als Autor des Buchs [Die Abenteuer des Huckleberry Finn](https://de.wikipedia.org/wiki/Die_Abenteuer_des_Huckleberry_Finn) (_Adventures of Huckleberry Finn_, 1884) und daneben natürlich auch Tom Sawyer bekannt.
+
+Im Bezirk Berlin-Tiergarten erinnert wohl in der Körnerstraße 7 eine Gedenktafel an Mark Twain und seinen mehrmonatigen Berliner Aufenthalt im Winter 1891/1892 in Berlin und deutschen Umland zur Zeit des [Deutschen Kaiserreichs](https://de.wikipedia.org/wiki/Die_Proklamierung_des_deutschen_Kaiserreiches_(18._Januar_1871)).
+
+### Samuel Langhorne Clemens (EN)
+
+> **Samuel Langhorne Clemens** (November 30, 1835 – April 21, 1910), known by the pen name _Mark Twain_, was an American writer, humorist and essayist.  He was praised as the "greatest humorist the United States has produced," with William Faulkner calling him "the father of American literature."  His novels include _The Adventures of Tom Sawyer_ (1876) and its sequel, _Adventures of Huckleberry Finn_ (1884), with the latter often called the "Great American Novel."
+
+<https://en.wikipedia.org/wiki/Mark_Twain>
+
+### Fascicle of Texts
+
+```
+Streite niemals mit einem Idioten: Erst zieht dich auf sein Niveau, und dann schlägt er dich mit Erfahrung.
+```
+
+### TBC _(wird fortgesetzt)_
