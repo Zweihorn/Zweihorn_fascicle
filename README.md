@@ -72,7 +72,7 @@ Further [POI in Berlin](https://www.berlin.de/en/tourism/):
 
 * [Archenhold Observatory](https://en.wikipedia.org/wiki/Archenhold_Observatory) i.e.  [Archenhold Sternwarte](https://www.planetarium.berlin/archenhold-sternwarte)
 
-and e.g., the [Berlin Zoo](https://www.zoo-berlin.de/en) 🐼 🎉 _and_ the [Berlin Tierpark](https://www.tierpark-berlin.de/en) (i.e. _Zoo east_) :
+and e.g., the [Berlin Zoo](https://www.zoo-berlin.de/en) 🐼 🐘 🎉 _and_ the [Berlin Tierpark](https://www.tierpark-berlin.de/en) (i.e. _Zoo east_) 🦅 🐪 🐫 🐺 🌳
 
 ###  Bunte Blätter / Colourful Leaves
 
