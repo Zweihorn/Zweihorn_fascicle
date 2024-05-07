@@ -195,7 +195,7 @@ von seinem Kind begleitet,
 einher das Nasobëm.
 ```
 
-### TBC _(wird fortgesetzt)_
+### _TBC (wird fortgesetzt)_
 
 ## Heinz Erhardt (1909-1979)
 
@@ -227,13 +227,36 @@ die dir die Wahrheit sagen.
 ```
 
 ```
+Ich finde solche, die von ihrem Geld erzählen
+und solche, die mit ihrem Geiste protzen
+und solche, die erst beten und dann stehlen,
+ich finde solche, Sie verzeihn, zum Kotzen.
+```
+
+```
+Wenn dir ein Fels vom Herzen fällt,
+so fällt er auf den Fuß dir prompt!
+So ist es nun mal auf der Welt:
+ein Kummer geht, ein Kummer kommt.
+```
+
+```
+Das Lernen macht stets dann Verdruss, wenn man’s nicht will, es aber muss.
+```
+
+```
 Paradox ist, wenn einer sich im Handumdrehen den Fuß bricht.
+```
+
+```
+Da kann einer sagen, was er will, das beste Essen ist immer noch das Trinken.
 ```
 
 ```
 Wer sich selbst auf den Arm nimmt, erspart anderen die Arbeit.
 ```
-### TBC _(wird fortgesetzt)_
+
+### _TBC (wird fortgesetzt)_
 
 ## Mark Twain
 
@@ -247,7 +270,7 @@ Im Bezirk Berlin-Tiergarten erinnert wohl in der Körnerstraße 7 eine Gedenktaf
 
 > **Samuel Langhorne Clemens** (November 30, 1835 – April 21, 1910), known by the pen name _Mark Twain_, was an American writer, humorist and essayist.  He was praised as the "greatest humorist the United States has produced," with William Faulkner calling him "the father of American literature."  His novels include _The Adventures of Tom Sawyer_ (1876) and its sequel, _Adventures of Huckleberry Finn_ (1884), with the latter often called the "Great American Novel."
 
-<https://en.wikipedia.org/wiki/Mark_Twain>
+<https://en.wikipedia.org/wiki/Mark_Twain> (2024-04-29)
 
 ### Fascicle of Texts
 
@@ -255,4 +278,4 @@ Im Bezirk Berlin-Tiergarten erinnert wohl in der Körnerstraße 7 eine Gedenktaf
 Streite niemals mit einem Idioten: Erst zieht dich auf sein Niveau, und dann schlägt er dich mit Erfahrung.
 ```
 
-### TBC _(wird fortgesetzt)_
+### _TBC (wird fortgesetzt)_
