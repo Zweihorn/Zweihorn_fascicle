@@ -36,9 +36,9 @@ matter most and you are [free to choose](https://en.wikipedia.org/wiki/Free_and_
 
 ### Personal Introduction
 
-I am a proud father of five (formerly six) beautiful children. I am a proud citizen of the European Union (EU).
+I am a proud father of five (formerly six) beautiful children. Also I am a proud citizen of the European Union (EU).
 
-Born in Western Germany during the times of [Cold War](https://en.wikipedia.org/wiki/Cold_War), nowadays safely and quite happily living in a reunified [Germany](https://en.wikipedia.org/wiki/Germany) in the EU. I enjoy my life in private.
+Born in Western Germany during the times of [Cold War](https://en.wikipedia.org/wiki/Cold_War), nowadays safely and quite happily living in a reunified [Germany](https://en.wikipedia.org/wiki/Germany) in the EU. Occasionally, I enjoy my life in private.
 
 ### Societal Introduction
 
@@ -46,8 +46,8 @@ Welcome to the [CET](https://en.wikipedia.org/wiki/Central_European_Time) zone. 
 
 [Berlin, Capital of Germany,](https://www.berlin.de/en/) today has good neighbours as [Paris](https://www.paris.fr/), [Amsterdam](https://www.amsterdam.nl/en/) and [Warsaw](http://www.um.warszawa.pl/en) in the [European Union](https://ec.europa.eu/growth/single-market_en). :de: :eu:
 
-While in Berlin stop at the [Berghain](https://en.wikipedia.org/wiki/Berghain), the [Memorial to the Murdered Jews of Europe](https://www.berlin.de/en/attractions-and-sights/3560249-3104052-memorial-to-the-murdered-jews-of-europe.en.html), the Berlin Wall Documentation Centre known as [Dokumentationszentrum Berliner Mauer](https://www.berlin.de/en/museums/3109351-3104050-gedenkstaette-berliner-mauer.en.html) and the [Mauerpark](https://en.wikipedia.org/wiki/Mauerpark). Only after the more educated [fan of space history](https://www.nasa.gov/centers/marshall/history/vonbraun/bio.html) may make a day's visit to the southern coast of the [Baltic sea](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/print_gm.html) and touch [some historic ground of rocket science and far more sad ambitions of the past](https://museum-peenemuende.de/?lang=en).
-:rocket: :thinking:
+While in Berlin stop at the [Berghain](https://en.wikipedia.org/wiki/Berghain), the [Memorial to the Murdered Jews of Europe](https://www.berlin.de/en/attractions-and-sights/3560249-3104052-memorial-to-the-murdered-jews-of-europe.en.html), the Berlin Wall Documentation Centre known as [Dokumentationszentrum Berliner Mauer](https://www.berlin.de/en/museums/3109351-3104050-gedenkstaette-berliner-mauer.en.html) and the [Mauerpark](https://en.wikipedia.org/wiki/Mauerpark). Only afterwards the more educated [fan of space history](https://www.nasa.gov/centers/marshall/history/vonbraun/bio.html) may make a day's visit to the southern coast of the [Baltic sea](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/print_gm.html) and touch [some historic ground of rocket science and far more sad ambitions of the past](https://museum-peenemuende.de/?lang=en).
+🚀 🤔
 
 Further [POI in Berlin](https://www.berlin.de/en/tourism/):
 
@@ -61,14 +61,14 @@ Further [POI in Berlin](https://www.berlin.de/en/tourism/):
 
 * [Archenhold Observatory](https://en.wikipedia.org/wiki/Archenhold_Observatory) i.e.  [Archenhold Sternwarte](https://www.planetarium.berlin/archenhold-sternwarte)
 
-and e.g., the [Berlin Zoo](https://www.zoo-berlin.de/en) 🐼 🐘 🎉 _and_ the [Berlin Tierpark](https://www.tierpark-berlin.de/en) (i.e. _Zoo east_) 🦅 🐪 🐫 🐺 🌳
+and e.g., the [Berlin Zoo](https://www.zoo-berlin.de/en) 🐼 🐘 🐧 🎉 _and_ the [Berlin Tierpark](https://www.tierpark-berlin.de/en) (i.e. _Zoo east_) 🦅 🐪 🐫 🐺 🌳
 
 ###  Bunte Blätter / Colourful Leaves
 
-Meine klitzekleine Literatursammlung _Bunte Blätter_ finden Sie unter der
+Meine klitzekleine Textsammlung _Bunte Blätter_ finden Sie unter der
 [Datei: Colourful-Leaves.md](colourful-leaves.md)  🎹 🍃
 
-My _fascicle of German texts_ filed under [File: Colourful-Leaves.md](colourful-leaves.md).  Please note my intentiomal use of the British English "colourful" denomination. 🇬🇧
+My _fascicle of German texts_ filed under [File: Colourful-Leaves.md](colourful-leaves.md).  Please note my intentional use of the British English "colourful" denomination. 🇬🇧
 
 
 ## Addendum
