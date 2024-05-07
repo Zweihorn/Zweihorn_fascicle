@@ -18,14 +18,39 @@ _aus: Galgenlieder, von [Christian Morgenstern](colourful-leaves.md#christian-mo
 
 ## My Profile (EN)
 
+### Latin (LA)
+
 "**Quot capita, tot sensus**" – There are as many opinions as there are heads – **Terence** (around 166–160 BC)
 
-> **Publius Terentius Afer** (/təˈrɛnʃiəs, -ʃəs/; c. 195/185 – c. 159? BC),
+> **[Publius Terentius Afer](https://en.wikipedia.org/wiki/Terence)** (/təˈrɛnʃiəs, -ʃəs/; c. 195/185 – c. 159? BC),
 > better known in English as **Terence** (/ˈtɛrəns/), was a Roman African
 > playwright during the Roman Republic. His comedies were performed
 > for the first time around 166–160 BC.
 
-More information at: <https://en.wikipedia.org/wiki/Terence>
+(2024-05-07)
+
+> **[Publius Terentius Afer](https://de.wikipedia.org/wiki/Terence)**, zumeist einfach Terenz
+> (* zwischen 195 und 184 v. Chr. in Karthago; † 159 oder 158 v. Chr. in Griechenland), war
+> einer der berühmtesten Komödiendichter der römischen Antike. Er war neben Plautus der bedeutendste
+> römische Dichter der Archaik und stand dem aristokratischen Scipionenkreis nahe. Von Terenz sind
+> sechs Komödien erhalten, die zwischen 166 und 160 v. Chr. entstanden und aufgeführt wurden. 
+
+(2024-02-17)
+
+### Also Latin (LA)
+
+> **[Carpe diem](https://de.wikipedia.org/wiki/Carpe_diem)** (wörtlich: „Pflücke den Tag“) ist eine Sentenz
+> aus der um 23 v. Chr. entstandenen Ode „An Leukonoë“ des römischen Dichters Horaz (* 65 v. Chr.; † 8 v. Chr.).
+> Sie fordert in der Schlusszeile als Fazit des Gedichts dazu auf, die knappe Lebenszeit heute zu genießen und
+> das nicht auf den nächsten Tag zu verschieben. Im Deutschen wurde die Übersetzung „Nutze den Tag“
+> zum geflügelten Wort.
+
+(2023-08-14)
+
+> **[Carpe diem](https://en.wikipedia.org/wiki/Carpe_diem)** is a Latin aphorism, usually translated "seize the day",
+> taken from book 1 of the Roman poet Horace's work Odes (23 BC).
+
+(2024-05-05)
 
 ## My Introduction
 
