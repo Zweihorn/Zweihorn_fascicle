@@ -13,7 +13,7 @@ More general information at:
 
 ## Urheberrecht vs. Copyright
 
-Please be aware the anglo-saxon system of law is quite _incompatible_ to the European i.e. French based system of law. Thus you have always to differentiate between _Urheberrecht_, _Copyright_ and in the EU one should avoid popular but mainly false _public domann_ claims.
+Please be aware the anglo-saxon system of law is quite _incompatible_ to the European i.e. French based system of law. Thus you have always to differentiate between _Urheberrecht_, _Copyright_ and in the EU one should avoid the popular but mainly false _public domain_ claims.
 
   * https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0790
     
