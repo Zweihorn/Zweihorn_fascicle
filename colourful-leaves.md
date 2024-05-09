@@ -37,6 +37,11 @@ Ein wunderschöner Querbezug ist es trotzdem, obwohl ich selbst leider nie das K
 
 Please note I make use of the British denomination "colourful" intentionally.  You find my _fascicle of German authors & texts_ just below.  
 
+## Danger Dan
+
+  *  Album der Woche (2021-05-03): [Das ist alles von der Kunstfreiheit gedeckt](https://www.radioeins.de/musik/cd_der_woche/das-ist-alles-von-der-kunstfreiheit-gedeckt-von-danger-dan.html), von Danger Dan auf [radioeins](https://www.radioeins.de/), Berlin.
+  *  Danger Dan - [Das ist alles von der Kunstfreiheit gedeckt (Antilopen Gang)](https://www.youtube.com/watch?v=Y-B0lXnierw) auf Youtube
+
 ## Christian Morgenstern
 
 ### Christian Morgenstern (DE)
