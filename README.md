@@ -36,7 +36,7 @@ matter most and you are [free to choose](https://en.wikipedia.org/wiki/Free_and_
 
 ### Personal Introduction
 
-Naturally, "Zweihorn" is not my true name but an [alter ego](https://en.wikipedia.org/wiki/Alter_ego) (or [modernistic](https://en.wikipedia.org/wiki/Modernism) a simple [avatar](https://en.wikipedia.org/wiki/Avatar_(computing))).
+Naturally, "Zweihorn" is not my true name but an [alter ego](https://en.wikipedia.org/wiki/Alter_ego) (or [modernistic](https://en.wikipedia.org/wiki/Modernism) a simple [avatar](https://en.wikipedia.org/wiki/Avatar_(computing))) like my former  "TP75" alter ego was.
 
 I am a proud father of five (formerly six) beautiful children. Also I am a proud citizen of the European Union (EU).
 
