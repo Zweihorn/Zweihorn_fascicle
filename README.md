@@ -5,7 +5,7 @@ from Latin _fasciculus_, diminutive of _fascis_ ‘**bundle**’: a separately p
 
 ## Mein Motto (DE)
 
-Das von mir nur entlehnte Motto soll als deutsch-sprachige Einführung für Werk und Archiv dienen.
+Natürlich ist "Zweihorn" nicht mein wirklicher Name, sondern mein [Alter Ego](https://de.wikipedia.org/wiki/Alter_Ego) oder eben [modernistisch](https://de.wikipedia.org/wiki/Angloamerikanischer_Modernismus) bzw. *[denglisch](https://de.wikipedia.org/wiki/Denglisch)* auch mein [Avatar](https://de.wikipedia.org/wiki/Avatar_(Internet)).  Das nachstehende, von mir nur entlehnte, schöne Motto soll als deutsch-sprachige Einführung für Werk und Archiv dienen.
 
 ```
 Laß die Moleküle rasen,
@@ -14,7 +14,7 @@ Laß das Tüfteln, laß das Hobeln,
 heilig halte die Ekstasen!
 ```
 
-_aus: Galgenlieder, von [Christian Morgenstern](colourful-leaves.md#christian-morgenstern)_
+_aus: Galgenlieder, von [Christian Morgenstern (1871-1914)](colourful-leaves.md#christian-morgenstern)_
 
 ## My Introduction
 
@@ -35,6 +35,8 @@ matter most and you are [free to choose](https://en.wikipedia.org/wiki/Free_and_
 :innocent: :restroom:
 
 ### Personal Introduction
+
+Naturally, "Zweihorn" is not my true name but an [alter ego](https://en.wikipedia.org/wiki/Alter_ego) (or [modernistic](https://en.wikipedia.org/wiki/Modernism) a simple [avatar](https://en.wikipedia.org/wiki/Avatar_(computing))).
 
 I am a proud father of five (formerly six) beautiful children. Also I am a proud citizen of the European Union (EU).
 
