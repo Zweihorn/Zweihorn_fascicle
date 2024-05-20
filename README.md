@@ -5,7 +5,7 @@ from Latin _fasciculus_, diminutive of _fascis_ ‘**bundle**’: a separately p
 
 ## Mein Motto (DE)
 
-Natürlich ist "Zweihorn" nicht mein wirklicher Name, sondern mein [Alter Ego](https://de.wikipedia.org/wiki/Alter_Ego) oder eben [modernistisch](https://de.wikipedia.org/wiki/Angloamerikanischer_Modernismus) bzw. *[denglisch](https://de.wikipedia.org/wiki/Denglisch)* auch mein [Avatar](https://de.wikipedia.org/wiki/Avatar_(Internet)).  Das nachstehende, von mir nur entlehnte, schöne Motto soll als deutsch-sprachige Einführung für Werk und Archiv dienen.
+Natürlich ist "Zweihorn" nicht mein wirklicher Name, sondern mein [Alter Ego](https://de.wikipedia.org/wiki/Alter_Ego) oder eben [modernistisch](https://de.wikipedia.org/wiki/Angloamerikanischer_Modernismus) bzw. *[denglisch](https://de.wikipedia.org/wiki/Denglisch)* auch mein [Avatar](https://de.wikipedia.org/wiki/Avatar_(Internet)).  Das schöne Gedicht (noch aus einer Zeit vor der [allgemeinen Relativitätstheorie](https://de.wikipedia.org/wiki/Allgemeine_Relativit%C3%A4tstheorie) und vor dem Ersten Weltkrieg) soll als deutsch-sprachiges hübsches Motto für Werk und Archiv dienen, denn _„Nichts wäre irreführender als die Behauptung, die Computertechnologie habe das Informationszeitalter hervorgebracht. Die [Druckpresse](https://de.wikipedia.org/wiki/Johannes_Gutenberg) hat damit begonnen, und seither sind wir nicht mehr von ihr losgekommen.“_ (laut [Neil Postman](https://de.wikipedia.org/wiki/Neil_Postman), 1931-2003, NY, U.S.A.).
 
 ```
 Laß die Moleküle rasen,
@@ -47,6 +47,11 @@ Born in Western Germany during the times of [Cold War](https://en.wikipedia.org/
 Welcome to the [CET](https://en.wikipedia.org/wiki/Central_European_Time) zone. In [Old Europe](https://en.wikipedia.org/wiki/Old_Europe_and_New_Europe) we have a tradition of [Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment) like [Critique of Pure Reason](https://en.wikipedia.org/wiki/Immanuel_Kant).
 
 [Berlin, Capital of Germany,](https://www.berlin.de/en/) today has good neighbours as [Paris](https://www.paris.fr/), [Amsterdam](https://www.amsterdam.nl/en/) and [Warsaw](http://www.um.warszawa.pl/en) in the [European Union](https://ec.europa.eu/growth/single-market_en). :de: :eu:
+
+In preparation to any visit of Berlin (tourist or business alike) one might find certain Apps useful, I presume, like:
+
+* [Your BVG Fahrinfo-App](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/fahrinfo-app) on public transport in current Berlin.
+* ["The Berlin Wall" App](https://www.chronik-der-mauer.de/en/182827/the-berlin-wall-app) to learn of the [Berlin Wall i.e. the "Mauer"](https://www.chronik-der-mauer.de/en/).
 
 While in Berlin stop at the [Berghain](https://en.wikipedia.org/wiki/Berghain), the [Memorial to the Murdered Jews of Europe](https://www.berlin.de/en/attractions-and-sights/3560249-3104052-memorial-to-the-murdered-jews-of-europe.en.html), the Berlin Wall Documentation Centre known as [Dokumentationszentrum Berliner Mauer](https://www.berlin.de/en/museums/3109351-3104050-gedenkstaette-berliner-mauer.en.html) and the [Mauerpark](https://en.wikipedia.org/wiki/Mauerpark). Only afterwards the more educated [fan of space history](https://www.nasa.gov/centers/marshall/history/vonbraun/bio.html) may make a day's visit to the southern coast of the [Baltic sea](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/print_gm.html) and touch [some historic ground of rocket science and far more sad ambitions of the past](https://museum-peenemuende.de/?lang=en).
 🚀 🤔
