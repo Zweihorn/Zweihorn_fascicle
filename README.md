@@ -5,7 +5,7 @@ from Latin _fasciculus_, diminutive of _fascis_ ‘**bundle**’: a separately p
 
 ## Mein Motto (DE)
 
-Natürlich ist "Zweihorn" nicht mein wirklicher Name, sondern mein [Alter Ego](https://de.wikipedia.org/wiki/Alter_Ego) oder eben [modernistisch](https://de.wikipedia.org/wiki/Angloamerikanischer_Modernismus) bzw. *[denglisch](https://de.wikipedia.org/wiki/Denglisch)* auch mein [Avatar](https://de.wikipedia.org/wiki/Avatar_(Internet)).  Das schöne Gedicht (noch aus einer Zeit vor der [allgemeinen Relativitätstheorie](https://de.wikipedia.org/wiki/Allgemeine_Relativit%C3%A4tstheorie) und vor dem Ersten Weltkrieg) soll als deutsch-sprachiges hübsches Motto für Werk und Archiv dienen, denn _„Nichts wäre irreführender als die Behauptung, die Computertechnologie habe das Informationszeitalter hervorgebracht. Die [Druckpresse](https://de.wikipedia.org/wiki/Johannes_Gutenberg) hat damit begonnen, und seither sind wir nicht mehr von ihr losgekommen.“_ (laut [Neil Postman](https://de.wikipedia.org/wiki/Neil_Postman), 1931-2003, NY, U.S.A.).
+Natürlich ist "Zweihorn" nicht mein wirklicher Name, sondern mein [Alter Ego](https://de.wikipedia.org/wiki/Alter_Ego) oder eben [modernistisch](https://de.wikipedia.org/wiki/Angloamerikanischer_Modernismus) bzw. *[denglisch](https://de.wikipedia.org/wiki/Denglisch)* auch mein [Avatar](https://de.wikipedia.org/wiki/Avatar_(Internet)).  
 
 ```
 Laß die Moleküle rasen,
@@ -15,6 +15,8 @@ heilig halte die Ekstasen!
 ```
 
 _aus: Galgenlieder, von [Christian Morgenstern (1871-1914)](colourful-leaves.md#christian-morgenstern)_
+
+Das schöne Gedicht (noch aus einer Zeit vor der [allgemeinen Relativitätstheorie](https://de.wikipedia.org/wiki/Allgemeine_Relativit%C3%A4tstheorie) und vor dem Ersten Weltkrieg) soll als deutsch-sprachiges hübsches Motto für Werk und Archiv dienen, denn _„Nichts wäre irreführender als die Behauptung, die [Computertechnologie](https://de.wikipedia.org/wiki/Konrad_Zuse) habe das Informationszeitalter hervorgebracht. Die [Druckpresse](https://de.wikipedia.org/wiki/Johannes_Gutenberg) hat damit begonnen, und seither sind wir nicht mehr von ihr losgekommen.“_ (laut [Neil Postman](https://de.wikipedia.org/wiki/Neil_Postman), 1931-2003, NY, U.S.A.).
 
 ## My Introduction
 
