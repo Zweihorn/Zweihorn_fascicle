@@ -280,7 +280,7 @@ Im Bezirk Berlin-Tiergarten erinnert wohl in der Körnerstraße 7 eine Gedenktaf
 ### Fascicle of Texts
 
 ```
-Streite niemals mit einem Idioten: Erst zieht dich auf sein Niveau, und dann schlägt er dich mit Erfahrung.
+Streite niemals mit einem Idioten: Erst zieht er dich auf sein Niveau herab, und dann schlägt er dich mit Erfahrung.
 ```
 
 ### _TBC (wird fortgesetzt)_
